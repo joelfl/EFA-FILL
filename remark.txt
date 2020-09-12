@@ -1,0 +1,1 @@
+when you run these project, if some words "can not found gdal204" are appeared, sone *.dll files for GDAL must be added into the path. These files are in ".\3rdLIB\GDAL|bin". After add and restart computer, these project can be run.
