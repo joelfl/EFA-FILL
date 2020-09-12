@@ -1,0 +1,266 @@
+﻿  DgUtil.cpp
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgutil.h(106): warning C4244: “return”: 从“__int64”转换到“long”，可能丢失数据
+  DgTriGrid2DS.cpp
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgutil.h(106): warning C4244: “return”: 从“__int64”转换到“long”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgstring.h(135): warning C4244: “初始化”: 从“long double”转换到“unsigned __int64”，可能丢失数据
+  DgTriGrid2D.cpp
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgutil.h(106): warning C4244: “return”: 从“__int64”转换到“long”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgstring.h(135): warning C4244: “初始化”: 从“long double”转换到“unsigned __int64”，可能丢失数据
+  DgSuperfund.cpp
+  DgSqrD8Grid2DS.cpp
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgutil.h(106): warning C4244: “return”: 从“__int64”转换到“long”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgstring.h(135): warning C4244: “初始化”: 从“long double”转换到“unsigned __int64”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgsqrd4grid2d.h(67): warning C4244: “参数”: 从“__int64”转换到“long double”，可能丢失数据
+  DgSqrD8Grid2D.cpp
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgutil.h(106): warning C4244: “return”: 从“__int64”转换到“long”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgstring.h(135): warning C4244: “初始化”: 从“long double”转换到“unsigned __int64”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgsqrd4grid2d.h(67): warning C4244: “参数”: 从“__int64”转换到“long double”，可能丢失数据
+  DgSqrD4Grid2DS.cpp
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgutil.h(106): warning C4244: “return”: 从“__int64”转换到“long”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgstring.h(135): warning C4244: “初始化”: 从“long double”转换到“unsigned __int64”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgsqrd4grid2d.h(67): warning C4244: “参数”: 从“__int64”转换到“long double”，可能丢失数据
+  DgSqrD4Grid2D.cpp
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgutil.h(106): warning C4244: “return”: 从“__int64”转换到“long”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgstring.h(135): warning C4244: “初始化”: 从“long double”转换到“unsigned __int64”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgsqrd4grid2d.h(67): warning C4244: “参数”: 从“__int64”转换到“long double”，可能丢失数据
+  DgSeriesConverter.cpp
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgutil.h(106): warning C4244: “return”: 从“__int64”转换到“long”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgstring.h(135): warning C4244: “初始化”: 从“long double”转换到“unsigned __int64”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgseriesconverter.h(51): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  DgRFNetwork.cpp
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgutil.h(106): warning C4244: “return”: 从“__int64”转换到“long”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgstring.h(135): warning C4244: “初始化”: 从“long double”转换到“unsigned __int64”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgseriesconverter.h(51): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgrfnetwork.cpp(61): warning C4800: “DgConverterBase *const ”: 将值强制为布尔值“true”或“false”(性能警告)
+  DgRFBase.cpp
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgutil.h(106): warning C4244: “return”: 从“__int64”转换到“long”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgstring.h(135): warning C4244: “初始化”: 从“long double”转换到“unsigned __int64”，可能丢失数据
+  DgRandom.cpp
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgutil.h(106): warning C4244: “return”: 从“__int64”转换到“long”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgstring.h(135): warning C4244: “初始化”: 从“long double”转换到“unsigned __int64”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgrandom.cpp(136): warning C4244: “=”: 从“unsigned long”转换到“short”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgrandom.cpp(137): warning C4244: “=”: 从“unsigned long”转换到“short”，可能丢失数据
+  DgProjTriRF.cpp
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgutil.h(106): warning C4244: “return”: 从“__int64”转换到“long”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgstring.h(135): warning C4244: “初始化”: 从“long double”转换到“unsigned __int64”，可能丢失数据
+  DgProjISEA.cpp
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgutil.h(106): warning C4244: “return”: 从“__int64”转换到“long”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgstring.h(135): warning C4244: “初始化”: 从“long double”转换到“unsigned __int64”，可能丢失数据
+  DgProjGnomonicRF.cpp
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgutil.h(106): warning C4244: “return”: 从“__int64”转换到“long”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgstring.h(135): warning C4244: “初始化”: 从“long double”转换到“unsigned __int64”，可能丢失数据
+  DgProjFuller.cpp
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgutil.h(106): warning C4244: “return”: 从“__int64”转换到“long”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgstring.h(135): warning C4244: “初始化”: 从“long double”转换到“unsigned __int64”，可能丢失数据
+  DgPolygon.cpp
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgutil.h(106): warning C4244: “return”: 从“__int64”转换到“long”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgstring.h(135): warning C4244: “初始化”: 从“long double”转换到“unsigned __int64”，可能丢失数据
+  DgParamList.cpp
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgutil.h(106): warning C4244: “return”: 从“__int64”转换到“long”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgstring.h(135): warning C4244: “初始化”: 从“long double”转换到“unsigned __int64”，可能丢失数据
+  DgOutShapefile.cpp
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgutil.h(106): warning C4244: “return”: 从“__int64”转换到“long”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgstring.h(135): warning C4244: “初始化”: 从“long double”转换到“unsigned __int64”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgoutshapefile.cpp(229): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgoutshapefile.cpp(233): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgoutshapefile.cpp(237): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgoutshapefile.cpp(326): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgoutshapefile.cpp(331): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  DgOutRandPtsText.cpp
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgutil.h(106): warning C4244: “return”: 从“__int64”转换到“long”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgstring.h(135): warning C4244: “初始化”: 从“long double”转换到“unsigned __int64”，可能丢失数据
+  正在生成代码...
+  正在编译...
+  DgOutputStream.cpp
+  DgOutPtsText.cpp
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgutil.h(106): warning C4244: “return”: 从“__int64”转换到“long”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgstring.h(135): warning C4244: “初始化”: 从“long double”转换到“unsigned __int64”，可能丢失数据
+  DgOutLocTextFile.cpp
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgutil.h(106): warning C4244: “return”: 从“__int64”转换到“long”，可能丢失数据
+  DgOutLocFile.cpp
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgutil.h(106): warning C4244: “return”: 从“__int64”转换到“long”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgstring.h(135): warning C4244: “初始化”: 从“long double”转换到“unsigned __int64”，可能丢失数据
+  DgOutKMLfile.cpp
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgutil.h(106): warning C4244: “return”: 从“__int64”转换到“long”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgstring.h(135): warning C4244: “初始化”: 从“long double”转换到“unsigned __int64”，可能丢失数据
+  DgOutGeoJSONFile.cpp
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgutil.h(106): warning C4244: “return”: 从“__int64”转换到“long”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgstring.h(135): warning C4244: “初始化”: 从“long double”转换到“unsigned __int64”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgoutgeojsonfile.cpp(71): warning C4244: “初始化”: 从“std::streamoff”转换到“long”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgoutgeojsonfile.cpp(102): warning C4129: “{”: 不可识别的字符转义序列
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgoutgeojsonfile.cpp(127): warning C4129: “{”: 不可识别的字符转义序列
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgoutgeojsonfile.cpp(160): warning C4129: “{”: 不可识别的字符转义序列
+  DgOutAIGenFile.cpp
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgutil.h(106): warning C4244: “return”: 从“__int64”转换到“long”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgstring.h(135): warning C4244: “初始化”: 从“long double”转换到“unsigned __int64”，可能丢失数据
+  DgLocVector.cpp
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgutil.h(106): warning C4244: “return”: 从“__int64”转换到“long”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgstring.h(135): warning C4244: “初始化”: 从“long double”转换到“unsigned __int64”，可能丢失数据
+  DgLocList.cpp
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgutil.h(106): warning C4244: “return”: 从“__int64”转换到“long”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgstring.h(135): warning C4244: “初始化”: 从“long double”转换到“unsigned __int64”，可能丢失数据
+  DgLocBase.cpp
+  DgLocation.cpp
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgutil.h(106): warning C4244: “return”: 从“__int64”转换到“long”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgstring.h(135): warning C4244: “初始化”: 从“long double”转换到“unsigned __int64”，可能丢失数据
+  DgIVec3D.cpp
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgutil.h(106): warning C4244: “return”: 从“__int64”转换到“long”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgstring.h(135): warning C4244: “初始化”: 从“long double”转换到“unsigned __int64”，可能丢失数据
+  DgIVec2D.cpp
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgutil.h(106): warning C4244: “return”: 从“__int64”转换到“long”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgstring.h(135): warning C4244: “初始化”: 从“long double”转换到“unsigned __int64”，可能丢失数据
+  DgInShapefileAtt.cpp
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgutil.h(106): warning C4244: “return”: 从“__int64”转换到“long”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgstring.h(135): warning C4244: “初始化”: 从“long double”转换到“unsigned __int64”，可能丢失数据
+  DgInShapefile.cpp
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgutil.h(106): warning C4244: “return”: 从“__int64”转换到“long”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgstring.h(135): warning C4244: “初始化”: 从“long double”转换到“unsigned __int64”，可能丢失数据
+  DgInputStream.cpp
+  DgInLocTextFile.cpp
+  DgInAIGenFile.cpp
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgutil.h(106): warning C4244: “return”: 从“__int64”转换到“long”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgstring.h(135): warning C4244: “初始化”: 从“long double”转换到“unsigned __int64”，可能丢失数据
+  DgIDGGS4T.cpp
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgutil.h(106): warning C4244: “return”: 从“__int64”转换到“long”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgstring.h(135): warning C4244: “初始化”: 从“long double”转换到“unsigned __int64”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgidgg.h(580): warning C4244: “return”: 从“const __int64”转换到“long double”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgidgg.h(796): warning C4244: “return”: 从“long double”转换到“__int64”，可能丢失数据
+  DgIDGGS4H.cpp
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgutil.h(106): warning C4244: “return”: 从“__int64”转换到“long”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgstring.h(135): warning C4244: “初始化”: 从“long double”转换到“unsigned __int64”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgidgg.h(580): warning C4244: “return”: 从“const __int64”转换到“long double”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgidgg.h(796): warning C4244: “return”: 从“long double”转换到“__int64”，可能丢失数据
+  正在生成代码...
+  正在编译...
+  DgIDGGS4D.cpp
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgutil.h(106): warning C4244: “return”: 从“__int64”转换到“long”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgstring.h(135): warning C4244: “初始化”: 从“long double”转换到“unsigned __int64”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgidgg.h(580): warning C4244: “return”: 从“const __int64”转换到“long double”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgidgg.h(796): warning C4244: “return”: 从“long double”转换到“__int64”，可能丢失数据
+  DgIDGGS43H.cpp
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgutil.h(106): warning C4244: “return”: 从“__int64”转换到“long”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgstring.h(135): warning C4244: “初始化”: 从“long double”转换到“unsigned __int64”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgidgg.h(580): warning C4244: “return”: 从“const __int64”转换到“long double”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgidgg.h(796): warning C4244: “return”: 从“long double”转换到“__int64”，可能丢失数据
+  DgIDGGS3H.cpp
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgutil.h(106): warning C4244: “return”: 从“__int64”转换到“long”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgstring.h(135): warning C4244: “初始化”: 从“long double”转换到“unsigned __int64”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgidgg.h(580): warning C4244: “return”: 从“const __int64”转换到“long double”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgidgg.h(796): warning C4244: “return”: 从“long double”转换到“__int64”，可能丢失数据
+  DgIDGGS.cpp
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgutil.h(106): warning C4244: “return”: 从“__int64”转换到“long”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgstring.h(135): warning C4244: “初始化”: 从“long double”转换到“unsigned __int64”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgidgg.h(580): warning C4244: “return”: 从“const __int64”转换到“long double”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgidgg.h(796): warning C4244: “return”: 从“long double”转换到“__int64”，可能丢失数据
+  DgIDGG.cpp
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgutil.h(106): warning C4244: “return”: 从“__int64”转换到“long”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgstring.h(135): warning C4244: “初始化”: 从“long double”转换到“unsigned __int64”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgidgg.h(580): warning C4244: “return”: 从“const __int64”转换到“long double”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgidgg.h(796): warning C4244: “return”: 从“long double”转换到“__int64”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgseriesconverter.h(51): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgradixstring.h(59): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgradixstring.h(60): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgradixstring.h(178): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgidgg.cpp(324): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgidgg.cpp(555): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgidgg.cpp(556): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+  DgIcosaMap.cpp
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgutil.h(106): warning C4244: “return”: 从“__int64”转换到“long”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgstring.h(135): warning C4244: “初始化”: 从“long double”转换到“unsigned __int64”，可能丢失数据
+  DgHexGrid2DS.cpp
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgutil.h(106): warning C4244: “return”: 从“__int64”转换到“long”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgstring.h(135): warning C4244: “初始化”: 从“long double”转换到“unsigned __int64”，可能丢失数据
+  DgHexC2Grid2D.cpp
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgutil.h(106): warning C4244: “return”: 从“__int64”转换到“long”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgstring.h(135): warning C4244: “初始化”: 从“long double”转换到“unsigned __int64”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dghexc2grid2d.cpp(108): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+  DgHexC1Grid2D.cpp
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgutil.h(106): warning C4244: “return”: 从“__int64”转换到“long”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgstring.h(135): warning C4244: “初始化”: 从“long double”转换到“unsigned __int64”，可能丢失数据
+  DgGeoSphRF.cpp
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgutil.h(106): warning C4244: “return”: 从“__int64”转换到“long”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgstring.h(135): warning C4244: “初始化”: 从“long double”转换到“unsigned __int64”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgidgg.h(580): warning C4244: “return”: 从“const __int64”转换到“long double”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgidgg.h(796): warning C4244: “return”: 从“long double”转换到“__int64”，可能丢失数据
+  DgEllipsoidRF.cpp
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgutil.h(106): warning C4244: “return”: 从“__int64”转换到“long”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgstring.h(135): warning C4244: “初始化”: 从“long double”转换到“unsigned __int64”，可能丢失数据
+  DgDVec3D.cpp
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgutil.h(106): warning C4244: “return”: 从“__int64”转换到“long”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgstring.h(135): warning C4244: “初始化”: 从“long double”转换到“unsigned __int64”，可能丢失数据
+  DgDVec2D.cpp
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgutil.h(106): warning C4244: “return”: 从“__int64”转换到“long”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgstring.h(135): warning C4244: “初始化”: 从“long double”转换到“unsigned __int64”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgdvec2d.cpp(85): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+  DgDmdD8Grid2DS.cpp
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgutil.h(106): warning C4244: “return”: 从“__int64”转换到“long”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgstring.h(135): warning C4244: “初始化”: 从“long double”转换到“unsigned __int64”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgdmdd4grid2d.h(85): warning C4244: “参数”: 从“__int64”转换到“long double”，可能丢失数据
+  DgDmdD8Grid2D.cpp
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgutil.h(106): warning C4244: “return”: 从“__int64”转换到“long”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgstring.h(135): warning C4244: “初始化”: 从“long double”转换到“unsigned __int64”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgdmdd4grid2d.h(85): warning C4244: “参数”: 从“__int64”转换到“long double”，可能丢失数据
+  DgDmdD4Grid2DS.cpp
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgutil.h(106): warning C4244: “return”: 从“__int64”转换到“long”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgstring.h(135): warning C4244: “初始化”: 从“long double”转换到“unsigned __int64”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgdmdd4grid2d.h(85): warning C4244: “参数”: 从“__int64”转换到“long double”，可能丢失数据
+  DgDmdD4Grid2D.cpp
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgutil.h(106): warning C4244: “return”: 从“__int64”转换到“long”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgstring.h(135): warning C4244: “初始化”: 从“long double”转换到“unsigned __int64”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgdmdd4grid2d.h(85): warning C4244: “参数”: 从“__int64”转换到“long double”，可能丢失数据
+  DgDistanceBase.cpp
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgutil.h(106): warning C4244: “return”: 从“__int64”转换到“long”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgstring.h(135): warning C4244: “初始化”: 从“long double”转换到“unsigned __int64”，可能丢失数据
+  DgDiscRFS2D.cpp
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgutil.h(106): warning C4244: “return”: 从“__int64”转换到“long”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgstring.h(135): warning C4244: “初始化”: 从“long double”转换到“unsigned __int64”，可能丢失数据
+  DgConverterBase.cpp
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgutil.h(106): warning C4244: “return”: 从“__int64”转换到“long”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgstring.h(135): warning C4244: “初始化”: 从“long double”转换到“unsigned __int64”，可能丢失数据
+  正在生成代码...
+  正在编译...
+  DgColor.cpp
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgutil.h(106): warning C4244: “return”: 从“__int64”转换到“long”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgcolor.cpp(141): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgcolor.cpp(142): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgcolor.cpp(143): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgcolor.cpp(190): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgcolor.cpp(208): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgcolor.cpp(216): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgcolor.cpp(245): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgcolor.cpp(252): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgcolor.cpp(254): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgcolor.cpp(256): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgcolor.cpp(274): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgcolor.cpp(292): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgcolor.cpp(303): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgcolor.cpp(307): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgcolor.cpp(362): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgcolor.cpp(363): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgcolor.cpp(364): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  DgCell.cpp
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgutil.h(106): warning C4244: “return”: 从“__int64”转换到“long”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgstring.h(135): warning C4244: “初始化”: 从“long double”转换到“unsigned __int64”，可能丢失数据
+  DgBoundedRFS2D.cpp
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgutil.h(106): warning C4244: “return”: 从“__int64”转换到“long”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgstring.h(135): warning C4244: “初始化”: 从“long double”转换到“unsigned __int64”，可能丢失数据
+  DgBoundedRF2D.cpp
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgutil.h(106): warning C4244: “return”: 从“__int64”转换到“long”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgstring.h(135): warning C4244: “初始化”: 从“long double”转换到“unsigned __int64”，可能丢失数据
+  DgBoundedIDGGS.cpp
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgutil.h(106): warning C4244: “return”: 从“__int64”转换到“long”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgstring.h(135): warning C4244: “初始化”: 从“long double”转换到“unsigned __int64”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgidgg.h(580): warning C4244: “return”: 从“const __int64”转换到“long double”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgidgg.h(796): warning C4244: “return”: 从“long double”转换到“__int64”，可能丢失数据
+  DgBoundedIDGG.cpp
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgutil.h(106): warning C4244: “return”: 从“__int64”转换到“long”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgstring.h(135): warning C4244: “初始化”: 从“long double”转换到“unsigned __int64”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgidgg.h(580): warning C4244: “return”: 从“const __int64”转换到“long double”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgidgg.h(796): warning C4244: “return”: 从“long double”转换到“__int64”，可能丢失数据
+  DgBoundedHexC2RF2D.cpp
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgutil.h(106): warning C4244: “return”: 从“__int64”转换到“long”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\dglib\dgstring.h(135): warning C4244: “初始化”: 从“long double”转换到“unsigned __int64”，可能丢失数据
+  DgBase.cpp
+  DgAddressBase.cpp
+  正在生成代码...
+  dglib.vcxproj -> D:\DEMOS\DGGandGLC\实验程序\扫描线填充法4--5跨界-跑219\DGGRIDv64\dglib\..\..\lib\dglib\lib\x64\dglib.lib

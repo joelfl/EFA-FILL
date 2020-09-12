@@ -1,0 +1,242 @@
+﻿  GLC30_Func.cpp
+f:\扫描线填充法4--5跨界-跑219\3rdlib\gdal\include\ogr_featurestyle.h(89): warning C4251: “OGRStyleTable::osLastRequestedStyleName”: class“CPLString”需要有 dll 接口由 class“OGRStyleTable”的客户端使用
+  f:\扫描线填充法4--5跨界-跑219\3rdlib\gdal\include\cpl_string.h(329): note: 参见“CPLString”的声明
+f:\扫描线填充法4--5跨界-跑219\3rdlib\gdal\include\cpl_json.h(153): warning C4251: “CPLJSONObject::m_osKey”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“CPLJSONObject”的客户端使用
+  d:\program files\visual studio 2015\vc\include\xstring(2633): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+f:\扫描线填充法4--5跨界-跑219\3rdlib\gdal\include\ogr_geometry.h(947): warning C4251: “OGRCurve::ConstIterator::m_poPrivate”: class“std::unique_ptr<OGRCurve::ConstIterator::Private,std::default_delete<_Ty>>”需要有 dll 接口由 class“OGRCurve::ConstIterator”的客户端使用
+          with
+          [
+              _Ty=OGRCurve::ConstIterator::Private
+          ]
+  f:\扫描线填充法4--5跨界-跑219\3rdlib\gdal\include\ogr_geometry.h(947): note: 参见“std::unique_ptr<OGRCurve::ConstIterator::Private,std::default_delete<_Ty>>”的声明
+          with
+          [
+              _Ty=OGRCurve::ConstIterator::Private
+          ]
+f:\扫描线填充法4--5跨界-跑219\3rdlib\gdal\include\ogr_geometry.h(1066): warning C4251: “OGRSimpleCurve::Iterator::m_poPrivate”: class“std::unique_ptr<OGRSimpleCurve::Iterator::Private,std::default_delete<_Ty>>”需要有 dll 接口由 class“OGRSimpleCurve::Iterator”的客户端使用
+          with
+          [
+              _Ty=OGRSimpleCurve::Iterator::Private
+          ]
+  f:\扫描线填充法4--5跨界-跑219\3rdlib\gdal\include\ogr_geometry.h(1066): note: 参见“std::unique_ptr<OGRSimpleCurve::Iterator::Private,std::default_delete<_Ty>>”的声明
+          with
+          [
+              _Ty=OGRSimpleCurve::Iterator::Private
+          ]
+f:\扫描线填充法4--5跨界-跑219\3rdlib\gdal\include\ogr_geometry.h(1083): warning C4251: “OGRSimpleCurve::ConstIterator::m_poPrivate”: class“std::unique_ptr<OGRSimpleCurve::ConstIterator::Private,std::default_delete<_Ty>>”需要有 dll 接口由 class“OGRSimpleCurve::ConstIterator”的客户端使用
+          with
+          [
+              _Ty=OGRSimpleCurve::ConstIterator::Private
+          ]
+  f:\扫描线填充法4--5跨界-跑219\3rdlib\gdal\include\ogr_geometry.h(1083): note: 参见“std::unique_ptr<OGRSimpleCurve::ConstIterator::Private,std::default_delete<_Ty>>”的声明
+          with
+          [
+              _Ty=OGRSimpleCurve::ConstIterator::Private
+          ]
+f:\扫描线填充法4--5跨界-跑219\3rdlib\gdal\include\ogr_feature.h(385): warning C4251: “OGRFeature::FieldValue::m_poPrivate”: class“std::unique_ptr<OGRFeature::FieldValue::Private,std::default_delete<_Ty>>”需要有 dll 接口由 class“OGRFeature::FieldValue”的客户端使用
+          with
+          [
+              _Ty=OGRFeature::FieldValue::Private
+          ]
+  f:\扫描线填充法4--5跨界-跑219\3rdlib\gdal\include\ogr_feature.h(385): note: 参见“std::unique_ptr<OGRFeature::FieldValue::Private,std::default_delete<_Ty>>”的声明
+          with
+          [
+              _Ty=OGRFeature::FieldValue::Private
+          ]
+f:\扫描线填充法4--5跨界-跑219\3rdlib\gdal\include\ogr_feature.h(528): warning C4251: “OGRFeature::ConstFieldIterator::m_poPrivate”: class“std::unique_ptr<OGRFeature::ConstFieldIterator::Private,std::default_delete<_Ty>>”需要有 dll 接口由 class“OGRFeature::ConstFieldIterator”的客户端使用
+          with
+          [
+              _Ty=OGRFeature::ConstFieldIterator::Private
+          ]
+  f:\扫描线填充法4--5跨界-跑219\3rdlib\gdal\include\ogr_feature.h(528): note: 参见“std::unique_ptr<OGRFeature::ConstFieldIterator::Private,std::default_delete<_Ty>>”的声明
+          with
+          [
+              _Ty=OGRFeature::ConstFieldIterator::Private
+          ]
+f:\扫描线填充法4--5跨界-跑219\3rdlib\gdal\include\gdal_priv.h(137): warning C4251: “GDALMajorObject::sDescription”: class“CPLString”需要有 dll 接口由 class“GDALMajorObject”的客户端使用
+  f:\扫描线填充法4--5跨界-跑219\3rdlib\gdal\include\cpl_string.h(329): note: 参见“CPLString”的声明
+f:\扫描线填充法4--5跨界-跑219\3rdlib\gdal\include\gdal_priv.h(190): warning C4251: “GDALDefaultOverviews::osOvrFilename”: class“CPLString”需要有 dll 接口由 class“GDALDefaultOverviews”的客户端使用
+  f:\扫描线填充法4--5跨界-跑219\3rdlib\gdal\include\cpl_string.h(329): note: 参见“CPLString”的声明
+f:\扫描线填充法4--5跨界-跑219\3rdlib\gdal\include\gdal_priv.h(471): warning C4251: “GDALDataset::Bands::Iterator::m_poPrivate”: class“std::unique_ptr<GDALDataset::Bands::Iterator::Private,std::default_delete<_Ty>>”需要有 dll 接口由 class“GDALDataset::Bands::Iterator”的客户端使用
+          with
+          [
+              _Ty=GDALDataset::Bands::Iterator::Private
+          ]
+  f:\扫描线填充法4--5跨界-跑219\3rdlib\gdal\include\gdal_priv.h(471): note: 参见“std::unique_ptr<GDALDataset::Bands::Iterator::Private,std::default_delete<_Ty>>”的声明
+          with
+          [
+              _Ty=GDALDataset::Bands::Iterator::Private
+          ]
+f:\扫描线填充法4--5跨界-跑219\3rdlib\gdal\include\gdal_priv.h(658): warning C4251: “GDALDataset::Layers::Iterator::m_poPrivate”: class“std::unique_ptr<GDALDataset::Layers::Iterator::Private,std::default_delete<_Ty>>”需要有 dll 接口由 class“GDALDataset::Layers::Iterator”的客户端使用
+          with
+          [
+              _Ty=GDALDataset::Layers::Iterator::Private
+          ]
+  f:\扫描线填充法4--5跨界-跑219\3rdlib\gdal\include\gdal_priv.h(658): note: 参见“std::unique_ptr<GDALDataset::Layers::Iterator::Private,std::default_delete<_Ty>>”的声明
+          with
+          [
+              _Ty=GDALDataset::Layers::Iterator::Private
+          ]
+f:\扫描线填充法4--5跨界-跑219\3rdlib\gdal\include\gdal_priv.h(716): warning C4251: “GDALDataset::Features::Iterator::m_poPrivate”: class“std::unique_ptr<GDALDataset::Features::Iterator::Private,std::default_delete<_Ty>>”需要有 dll 接口由 class“GDALDataset::Features::Iterator”的客户端使用
+          with
+          [
+              _Ty=GDALDataset::Features::Iterator::Private
+          ]
+  f:\扫描线填充法4--5跨界-跑219\3rdlib\gdal\include\gdal_priv.h(716): note: 参见“std::unique_ptr<GDALDataset::Features::Iterator::Private,std::default_delete<_Ty>>”的声明
+          with
+          [
+              _Ty=GDALDataset::Features::Iterator::Private
+          ]
+f:\扫描线填充法4--5跨界-跑219\3rdlib\gdal\include\gdal_priv.h(941): warning C4251: “GDALColorTable::aoEntries”: class“std::vector<GDALColorEntry,std::allocator<_Ty>>”需要有 dll 接口由 class“GDALColorTable”的客户端使用
+          with
+          [
+              _Ty=GDALColorEntry
+          ]
+  f:\扫描线填充法4--5跨界-跑219\3rdlib\gdal\include\gdal_priv.h(941): note: 参见“std::vector<GDALColorEntry,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=GDALColorEntry
+          ]
+f:\扫描线填充法4--5跨界-跑219\3rdlib\gdal\include\gdal_priv.h(1519): warning C4251: “GDALDriverManager::oMapNameToDrivers”: class“std::map<CPLString,GDALDriver *,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>”需要有 dll 接口由 class“GDALDriverManager”的客户端使用
+          with
+          [
+              _Kty=CPLString,
+              _Ty=GDALDriver *
+          ]
+  f:\扫描线填充法4--5跨界-跑219\3rdlib\gdal\include\gdal_priv.h(1519): note: 参见“std::map<CPLString,GDALDriver *,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>”的声明
+          with
+          [
+              _Kty=CPLString,
+              _Ty=GDALDriver *
+          ]
+f:\扫描线填充法4--5跨界-跑219\3rdlib\gdal\include\ogrsf_frmts.h(74): warning C4251: “OGRLayer::m_poPrivate”: class“std::unique_ptr<OGRLayer::Private,std::default_delete<_Ty>>”需要有 dll 接口由 class“OGRLayer”的客户端使用
+          with
+          [
+              _Ty=OGRLayer::Private
+          ]
+  f:\扫描线填充法4--5跨界-跑219\3rdlib\gdal\include\ogrsf_frmts.h(74): note: 参见“std::unique_ptr<OGRLayer::Private,std::default_delete<_Ty>>”的声明
+          with
+          [
+              _Ty=OGRLayer::Private
+          ]
+f:\扫描线填充法4--5跨界-跑219\3rdlib\gdal\include\ogrsf_frmts.h(81): warning C4251: “OGRLayer::FeatureIterator::m_poPrivate”: class“std::unique_ptr<OGRLayer::FeatureIterator::Private,std::default_delete<_Ty>>”需要有 dll 接口由 class“OGRLayer::FeatureIterator”的客户端使用
+          with
+          [
+              _Ty=OGRLayer::FeatureIterator::Private
+          ]
+  f:\扫描线填充法4--5跨界-跑219\3rdlib\gdal\include\ogrsf_frmts.h(81): note: 参见“std::unique_ptr<OGRLayer::FeatureIterator::Private,std::default_delete<_Ty>>”的声明
+          with
+          [
+              _Ty=OGRLayer::FeatureIterator::Private
+          ]
+f:\扫描线填充法4--5跨界-跑219\lib\dglib\include\dgutil.h(106): warning C4244: “return”: 从“__int64”转换到“long”，可能丢失数据
+f:\扫描线填充法4--5跨界-跑219\lib\dglib\include\dgstring.h(135): warning C4244: “初始化”: 从“long double”转换到“unsigned __int64”，可能丢失数据
+f:\扫描线填充法4--5跨界-跑219\lib\dglib\include\dgidgg.h(580): warning C4244: “return”: 从“const __int64”转换到“long double”，可能丢失数据
+f:\扫描线填充法4--5跨界-跑219\lib\dglib\include\dgidgg.h(796): warning C4244: “return”: 从“long double”转换到“__int64”，可能丢失数据
+f:\扫描线填充法4--5跨界-跑219\lib\dglib\include\dgdmdd4grid2d.h(85): warning C4244: “参数”: 从“__int64”转换到“long double”，可能丢失数据
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(8): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(11): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(12): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(354): warning C4101: “tmp_”: 未引用的局部变量
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(387): warning C4101: “xi”: 未引用的局部变量
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(387): warning C4101: “yi”: 未引用的局部变量
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(383): warning C4101: “row”: 未引用的局部变量
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(389): warning C4101: “ai”: 未引用的局部变量
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(387): warning C4101: “xj”: 未引用的局部变量
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(387): warning C4101: “yj”: 未引用的局部变量
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(383): warning C4101: “col”: 未引用的局部变量
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(389): warning C4101: “area”: 未引用的局部变量
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(843): warning C4244: “参数”: 从“long double”转换到“ClipperLib::cInt”，可能丢失数据
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(855): warning C4244: “初始化”: 从“ClipperLib::cInt”转换到“double”，可能丢失数据
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(856): warning C4244: “初始化”: 从“ClipperLib::cInt”转换到“double”，可能丢失数据
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(866): warning C4244: “参数”: 从“ClipperLib::cInt”转换到“const double”，可能丢失数据
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(867): warning C4244: “参数”: 从“ClipperLib::cInt”转换到“const double”，可能丢失数据
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(947): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(954): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(1690): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(1691): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(1613): warning C4101: “val”: 未引用的局部变量
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(1636): warning C4101: “gridval_grid”: 未引用的局部变量
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(2078): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(2120): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(2187): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(2191): warning C4244: “=”: 从“long double”转换到“float”，可能丢失数据
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(2197): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(2201): warning C4244: “=”: 从“long double”转换到“int”，可能丢失数据
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(2249): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(2250): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(2306): warning C4551: 缺少参数列表的函数调用
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(2329): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(2355): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(2411): warning C4244: “=”: 从“long double”转换到“int”，可能丢失数据
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(2429): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(2445): warning C4244: “初始化”: 从“long double”转换到“int”，可能丢失数据
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(2446): warning C4244: “初始化”: 从“long double”转换到“int”，可能丢失数据
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(2455): warning C4244: “初始化”: 从“long double”转换到“int”，可能丢失数据
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(2456): warning C4244: “初始化”: 从“long double”转换到“int”，可能丢失数据
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(2529): warning C4244: “=”: 从“long double”转换到“int”，可能丢失数据
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(2530): warning C4244: “=”: 从“long double”转换到“int”，可能丢失数据
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(2531): warning C4244: “初始化”: 从“long double”转换到“int”，可能丢失数据
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(2532): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(2574): warning C4244: “初始化”: 从“long double”转换到“int”，可能丢失数据
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(2575): warning C4244: “初始化”: 从“long double”转换到“int”，可能丢失数据
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(2576): warning C4244: “初始化”: 从“long double”转换到“int”，可能丢失数据
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(2578): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(2586): warning C4244: “=”: 从“__int64”转换到“long double”，可能丢失数据
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(2588): warning C4244: “+=”: 从“__int64”转换到“int”，可能丢失数据
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(2607): warning C4244: “初始化”: 从“long double”转换到“int”，可能丢失数据
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(2608): warning C4244: “初始化”: 从“long double”转换到“int”，可能丢失数据
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(2609): warning C4244: “初始化”: 从“long double”转换到“int”，可能丢失数据
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(2610): warning C4244: “初始化”: 从“long double”转换到“int”，可能丢失数据
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(2639): warning C4244: “初始化”: 从“long double”转换到“int”，可能丢失数据
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(2640): warning C4244: “初始化”: 从“long double”转换到“int”，可能丢失数据
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(2641): warning C4244: “初始化”: 从“long double”转换到“int”，可能丢失数据
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(2642): warning C4244: “初始化”: 从“long double”转换到“int”，可能丢失数据
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(2673): warning C4244: “=”: 从“long double”转换到“int”，可能丢失数据
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(2305): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+  f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(2305): note: 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+  f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(2305): note: 缺失的可变参数 1 为格式字符串“%s”所需
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(2291): warning C4101: “Imin”: 未引用的局部变量
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(2291): warning C4101: “Imax”: 未引用的局部变量
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(2291): warning C4101: “I”: 未引用的局部变量
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(2292): warning C4101: “J”: 未引用的局部变量
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(2275): warning C4101: “BDPolygon”: 未引用的局部变量
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(2294): warning C4101: “add”: 未引用的局部变量
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(2288): warning C4101: “addLoc”: 未引用的局部变量
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(2384): warning C4101: “name1”: 未引用的局部变量
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(2740): warning C4551: 缺少参数列表的函数调用
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(2792): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(2793): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(2796): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(2836): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(2896): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(2897): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(2906): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(2907): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(2739): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+  f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(2739): note: 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+  f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(2739): note: 缺失的可变参数 1 为格式字符串“%s”所需
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(2707): warning C4101: “BDPolygon”: 未引用的局部变量
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(2706): warning C4101: “pGeoType”: 未引用的局部变量
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(2965): warning C4101: “PolyID”: 未引用的局部变量
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(2965): warning C4101: “lon”: 未引用的局部变量
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(2965): warning C4101: “lat”: 未引用的局部变量
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(2965): warning C4101: “d”: 未引用的局部变量
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(3091): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(3159): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(3180): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(3235): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(3396): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(3622): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(3813): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(3832): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(4062): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(4081): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(4157): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(4180): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(2223): warning C4715: “FindSamePoint”: 不是所有的控件路径都返回值
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(4004): warning C4715: “FindActualCounter”: 不是所有的控件路径都返回值
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(4012): warning C4715: “Find_CounterPolyID”: 不是所有的控件路径都返回值
+f:\扫描线填充法4--5跨界-跑219\dggridv64\glc30_static\glc30_func.cpp(4210): warning C4715: “Line_BD_intersect”: 不是所有的控件路径都返回值
+  GLC30_Static.vcxproj -> F:\扫描线填充法4--5跨界-跑219\DGGRIDv64\x64\Debug\GLC30_Static.exe
+  GLC30_Static.vcxproj -> F:\扫描线填充法4--5跨界-跑219\DGGRIDv64\x64\Debug\GLC30_Static.pdb (Full PDB)

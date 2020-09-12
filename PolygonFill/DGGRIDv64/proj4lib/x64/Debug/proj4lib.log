@@ -1,0 +1,13 @@
+﻿  pj_tsfn.cpp
+  pj_qsfn.cpp
+  pj_phi2.cpp
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\lib\dglib\include\dgutil.h(106): warning C4244: “return”: 从“__int64”转换到“long”，可能丢失数据
+  pj_msfn.cpp
+  pj_mlfn.cpp
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\lib\dglib\include\dgutil.h(106): warning C4244: “return”: 从“__int64”转换到“long”，可能丢失数据
+  pj_auth.cpp
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\lib\dglib\include\dgutil.h(106): warning C4244: “return”: 从“__int64”转换到“long”，可能丢失数据
+  emess.cpp
+  adjlon.cpp
+  正在生成代码...
+  proj4lib.vcxproj -> D:\DEMOS\DGGandGLC\实验程序\扫描线填充法4--5跨界-跑219\DGGRIDv64\proj4lib\..\..\lib\proj4lib\lib\x64\proj4lib.lib

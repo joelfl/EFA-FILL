@@ -1,0 +1,19 @@
+﻿  main_intersection.cpp
+  clipper_triangulation.cpp
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\clipperregion\clipper_triangulation.cpp(33): warning C4800: “clipperlib::OutRec *const ”: 将值强制为布尔值“true”或“false”(性能警告)
+  clipper_offset.cpp
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\clipperregion\clipper_offset.cpp(91): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\clipperregion\clipper_offset.cpp(108): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\clipperregion\clipper_offset.cpp(115): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\clipperregion\clipper_offset.cpp(169): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\clipperregion\clipper_offset.cpp(170): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\clipperregion\clipper_offset.cpp(174): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\clipperregion\clipper_offset.cpp(175): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\clipperregion\clipper_offset.cpp(178): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\clipperregion\clipper_offset.cpp(374): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\clipperregion\clipper_offset.cpp(375): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  clipper_.cpp
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\clipperregion\clipper_.cpp(139): warning C4800: “clipperlib::OutRec *const ”: 将值强制为布尔值“true”或“false”(性能警告)
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\clipperregion\clipper_.cpp(277): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+  正在生成代码...
+LINK : fatal error LNK1104: 无法打开文件“..\..\lib\ClipperRegionlib\lib\x64\ClipperRegion.lib”

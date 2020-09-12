@@ -1,0 +1,31 @@
+﻿  shputils.c
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\shapelib\shputils.c(558): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\shapelib\shputils.c(921): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  shptreedump.c
+  shptree.c
+  shptest.c
+  shprewind.c
+  shpopen.c
+  shpdump.c
+  shpcreate.c
+  shpadd.c
+  sbnsearch.c
+  safileio.c
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\shapelib\safileio.c(210): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  dbfopen.c
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\shapelib\dbfopen.c(820): warning C4267: “函数”: 从“size_t”转换到“SAOffset”，可能丢失数据
+  dbfdump.c
+d:\demos\dggandglc\实验程序\扫描线填充法4--5跨界-跑219\dggridv64\shapelib\dbfdump.c(185): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  dbfcreate.c
+  dbfadd.c
+  正在生成代码...
+shptreedump.obj : warning LNK4006: main 已在 shputils.obj 中定义；已忽略第二个定义
+shptest.obj : warning LNK4006: main 已在 shputils.obj 中定义；已忽略第二个定义
+shprewind.obj : warning LNK4006: main 已在 shputils.obj 中定义；已忽略第二个定义
+shpdump.obj : warning LNK4006: main 已在 shputils.obj 中定义；已忽略第二个定义
+shpcreate.obj : warning LNK4006: main 已在 shputils.obj 中定义；已忽略第二个定义
+shpadd.obj : warning LNK4006: main 已在 shputils.obj 中定义；已忽略第二个定义
+dbfdump.obj : warning LNK4006: main 已在 shputils.obj 中定义；已忽略第二个定义
+dbfcreate.obj : warning LNK4006: main 已在 shputils.obj 中定义；已忽略第二个定义
+dbfadd.obj : warning LNK4006: main 已在 shputils.obj 中定义；已忽略第二个定义
+  shapelib.vcxproj -> D:\DEMOS\DGGandGLC\实验程序\扫描线填充法4--5跨界-跑219\DGGRIDv64\shapelib\..\..\lib\shapelib\lib\x64\shapelib.lib

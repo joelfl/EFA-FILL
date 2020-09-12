@@ -1,0 +1,531 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Dg2WayConverter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgAddress.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgAddressBase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgBase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgBoundedHexC2RF2D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgBoundedIDGG.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgBoundedIDGGS.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgBoundedRF.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgBoundedRF.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgBoundedRF2D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgBoundedRFBase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgBoundedRFS2D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgCell.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgColor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgConstants.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgContCartRF.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgConverter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgConverterBase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgDiscRF.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgDiscRF.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgDiscRF2D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgDiscRFS.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgDiscRFS.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgDiscRFS2D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgDistance.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgDmdD4Grid2D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgDmdD4Grid2DS.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgDmdD8Grid2D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgDmdD8Grid2DS.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgDVec2D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgDVec3D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgEllipsoidRF.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgGeoDatumRF.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgGeoProjConverter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgGeoProjRF.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgGeoSphRF.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgHexC1Grid2D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgHexC2Grid2D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgHexGrid2DS.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgIcosaMap.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgIcosaProj.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgIDGG.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgIDGGS.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgIDGGS3H.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgIDGGS4D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgIDGGS4H.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgIDGGS4T.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgIDGGS43H.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgInAIGenFile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgInLocFile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgInLocTextFile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgInputStream.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgInShapefile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgInShapefileAtt.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgIVec2D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgIVec3D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgLabelLoc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgLocation.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgLocBase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgLocList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgLocVector.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgOutAIGenFile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgOutGeoJSONFile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgOutKMLfile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgOutLocFile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgOutLocTextFile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgOutPtsText.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgOutputStream.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgOutRandPtsText.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgOutShapefile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgParamList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgPhysicalRF.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgPhysicalRF.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgPhysicalRF2D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgPhysicalRF2D.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgPhysicalRFBase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgPhysicalRFBase.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgPhysicalRFS2D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgPhysicalRFS2D.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgPolygon.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgProjFuller.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgProjGnomonicRF.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgProjISEA.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgProjTriRF.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgRadixString.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgRandom.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgRF.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgRF.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgRFBase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgRFNetwork.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgSeriesConverter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgSpatialDB.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgSqrD4Grid2D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgSqrD4Grid2DS.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgSqrD8Grid2D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgSqrD8Grid2DS.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgString.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgSuperfund.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgTriGrid2D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgTriGrid2DS.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DgUtil.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="DgAddressBase.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DgBase.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DgBoundedHexC2RF2D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DgBoundedIDGG.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DgBoundedIDGGS.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DgBoundedRF2D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DgBoundedRFS2D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DgCell.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DgColor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DgConverterBase.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DgDiscRFS2D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DgDistanceBase.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DgDmdD4Grid2D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DgDmdD4Grid2DS.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DgDmdD8Grid2D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DgDmdD8Grid2DS.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DgDVec2D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DgDVec3D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DgEllipsoidRF.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DgGeoSphRF.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DgHexC1Grid2D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DgHexC2Grid2D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DgHexGrid2DS.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DgIcosaMap.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DgIDGG.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DgIDGGS.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DgIDGGS3H.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DgIDGGS4D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DgIDGGS4H.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DgIDGGS4T.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DgIDGGS43H.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DgInAIGenFile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DgInLocTextFile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DgInputStream.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DgInShapefile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DgInShapefileAtt.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DgIVec2D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DgIVec3D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DgLocation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DgLocBase.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DgLocList.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DgLocVector.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DgOutAIGenFile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DgOutGeoJSONFile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DgOutKMLfile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DgOutLocFile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DgOutLocTextFile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DgOutPtsText.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DgOutputStream.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DgOutRandPtsText.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DgOutShapefile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DgParamList.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DgPolygon.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DgProjFuller.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DgProjGnomonicRF.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DgProjISEA.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DgProjTriRF.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DgRandom.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DgRFBase.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DgRFNetwork.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DgSeriesConverter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DgSqrD4Grid2D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DgSqrD4Grid2DS.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DgSqrD8Grid2D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DgSqrD8Grid2DS.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DgSuperfund.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DgTriGrid2D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DgTriGrid2DS.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DgUtil.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

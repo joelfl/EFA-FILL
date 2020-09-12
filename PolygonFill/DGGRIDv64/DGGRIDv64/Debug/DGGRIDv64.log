@@ -1,0 +1,141 @@
+﻿  util.cpp
+  transform.cpp
+d:\demos\dggandglc\实验程序\扫描线填充法\lib\dglib\include\dgutil.h(106): warning C4244: “return”: 从“__int64”转换到“long”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法\lib\dglib\include\dgstring.h(135): warning C4244: “初始化”: 从“long double”转换到“unsigned __int64”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法\lib\dglib\include\dgidgg.h(580): warning C4244: “return”: 从“const __int64”转换到“long double”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法\lib\dglib\include\dgidgg.h(796): warning C4244: “return”: 从“long double”转换到“__int64”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法\dggridv64\dggridv64\transform.cpp(239): warning C4244: “初始化”: 从“unsigned __int64”转换到“unsigned long”，可能丢失数据
+  table.cpp
+d:\demos\dggandglc\实验程序\扫描线填充法\lib\dglib\include\dgutil.h(106): warning C4244: “return”: 从“__int64”转换到“long”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法\lib\dglib\include\dgstring.h(135): warning C4244: “初始化”: 从“long double”转换到“unsigned __int64”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法\lib\dglib\include\dgidgg.h(580): warning C4244: “return”: 从“const __int64”转换到“long double”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法\lib\dglib\include\dgidgg.h(796): warning C4244: “return”: 从“long double”转换到“__int64”，可能丢失数据
+  quadclip.cpp
+d:\demos\dggandglc\实验程序\扫描线填充法\lib\dglib\include\dgutil.h(106): warning C4244: “return”: 从“__int64”转换到“long”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法\lib\dglib\include\dgstring.h(135): warning C4244: “初始化”: 从“long double”转换到“unsigned __int64”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法\lib\dglib\include\dgidgg.h(580): warning C4244: “return”: 从“const __int64”转换到“long double”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法\lib\dglib\include\dgidgg.h(796): warning C4244: “return”: 从“long double”转换到“__int64”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法\lib\dglib\include\dgdmdd4grid2d.h(85): warning C4244: “参数”: 从“__int64”转换到“long double”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法\dggridv64\dggridv64\quadclip.cpp(189): warning C4244: “参数”: 从“long double”转换到“ClipperLib::cInt”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法\dggridv64\dggridv64\quadclip.cpp(340): warning C4244: “参数”: 从“long double”转换到“ClipperLib::cInt”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法\dggridv64\dggridv64\quadclip.cpp(373): warning C4018: “<”: 有符号/无符号不匹配
+d:\demos\dggandglc\实验程序\扫描线填充法\dggridv64\dggridv64\quadclip.cpp(376): warning C4018: “<”: 有符号/无符号不匹配
+d:\demos\dggandglc\实验程序\扫描线填充法\dggridv64\dggridv64\quadclip.cpp(416): warning C4244: “参数”: 从“long double”转换到“ClipperLib::cInt”，可能丢失数据
+  param.cpp
+d:\demos\dggandglc\实验程序\扫描线填充法\lib\dglib\include\dgutil.h(106): warning C4244: “return”: 从“__int64”转换到“long”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法\lib\dglib\include\dgstring.h(135): warning C4244: “初始化”: 从“long double”转换到“unsigned __int64”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法\lib\dglib\include\dgidgg.h(580): warning C4244: “return”: 从“const __int64”转换到“long double”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法\lib\dglib\include\dgidgg.h(796): warning C4244: “return”: 从“long double”转换到“__int64”，可能丢失数据
+  gridgen.cpp
+d:\demos\dggandglc\实验程序\扫描线填充法\lib\dglib\include\dgutil.h(106): warning C4244: “return”: 从“__int64”转换到“long”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法\lib\dglib\include\dgstring.h(135): warning C4244: “初始化”: 从“long double”转换到“unsigned __int64”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法\lib\dglib\include\dgidgg.h(580): warning C4244: “return”: 从“const __int64”转换到“long double”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法\lib\dglib\include\dgidgg.h(796): warning C4244: “return”: 从“long double”转换到“__int64”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法\lib\dglib\include\dgdmdd4grid2d.h(85): warning C4244: “参数”: 从“__int64”转换到“long double”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法\dggridv64\dggridv64\gridgen.cpp(407): warning C4244: “参数”: 从“long double”转换到“ClipperLib::cInt”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法\dggridv64\dggridv64\gridgen.cpp(897): warning C4018: “<”: 有符号/无符号不匹配
+d:\demos\dggandglc\实验程序\扫描线填充法\dggridv64\dggridv64\gridgen.cpp(900): warning C4101: “seqnum”: 未引用的局部变量
+d:\demos\dggandglc\实验程序\扫描线填充法\dggridv64\dggridv64\gridgen.cpp(981): warning C4101: “e”: 未引用的局部变量
+  DgHexSF.cpp
+d:\demos\dggandglc\实验程序\扫描线填充法\lib\dglib\include\dgutil.h(106): warning C4244: “return”: 从“__int64”转换到“long”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法\lib\dglib\include\dgstring.h(135): warning C4244: “初始化”: 从“long double”转换到“unsigned __int64”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法\lib\dglib\include\dgidgg.h(580): warning C4244: “return”: 从“const __int64”转换到“long double”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法\lib\dglib\include\dgidgg.h(796): warning C4244: “return”: 从“long double”转换到“__int64”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法\dggridv64\dggridv64\dghexsf.cpp(294): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法\dggridv64\dggridv64\dghexsf.cpp(295): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法\dggridv64\dggridv64\dghexsf.cpp(296): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法\dggridv64\dggridv64\dghexsf.cpp(309): warning C4244: “参数”: 从“__int64”转换到“long double”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法\dggridv64\dggridv64\dghexsf.cpp(310): warning C4244: “参数”: 从“__int64”转换到“long double”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法\dggridv64\dggridv64\dghexsf.cpp(311): warning C4244: “参数”: 从“__int64”转换到“long double”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法\dggridv64\dggridv64\dghexsf.cpp(326): warning C4244: “参数”: 从“__int64”转换到“long double”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法\dggridv64\dggridv64\dghexsf.cpp(327): warning C4244: “参数”: 从“__int64”转换到“long double”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法\dggridv64\dggridv64\dghexsf.cpp(328): warning C4244: “参数”: 从“__int64”转换到“long double”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法\dggridv64\dggridv64\dghexsf.cpp(338): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法\dggridv64\dggridv64\dghexsf.cpp(339): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法\dggridv64\dggridv64\dghexsf.cpp(340): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+  dggrid.cpp
+d:\demos\dggandglc\实验程序\扫描线填充法\lib\dglib\include\dgutil.h(106): warning C4244: “return”: 从“__int64”转换到“long”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法\lib\dglib\include\dgstring.h(135): warning C4244: “初始化”: 从“long double”转换到“unsigned __int64”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法\lib\dglib\include\dgidgg.h(580): warning C4244: “return”: 从“const __int64”转换到“long double”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法\lib\dglib\include\dgidgg.h(796): warning C4244: “return”: 从“long double”转换到“__int64”，可能丢失数据
+  clipper.cpp
+d:\demos\dggandglc\实验程序\扫描线填充法\dggridv64\dggridv64\clipper.cpp(3792): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  binvals.cpp
+d:\demos\dggandglc\实验程序\扫描线填充法\lib\dglib\include\dgutil.h(106): warning C4244: “return”: 从“__int64”转换到“long”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法\lib\dglib\include\dgstring.h(135): warning C4244: “初始化”: 从“long double”转换到“unsigned __int64”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法\lib\dglib\include\dgidgg.h(580): warning C4244: “return”: 从“const __int64”转换到“long double”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法\lib\dglib\include\dgidgg.h(796): warning C4244: “return”: 从“long double”转换到“__int64”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法\dggridv64\dggridv64\binvals.cpp(194): warning C4244: “初始化”: 从“unsigned __int64”转换到“unsigned int”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法\dggridv64\dggridv64\binvals.cpp(227): warning C4244: “初始化”: 从“unsigned __int64”转换到“long”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法\dggridv64\dggridv64\binvals.cpp(388): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法\dggridv64\dggridv64\binvals.cpp(389): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法\dggridv64\dggridv64\binvals.cpp(514): warning C4244: “初始化”: 从“unsigned __int64”转换到“unsigned long”，可能丢失数据
+  binpres.cpp
+d:\demos\dggandglc\实验程序\扫描线填充法\lib\dglib\include\dgutil.h(106): warning C4244: “return”: 从“__int64”转换到“long”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法\lib\dglib\include\dgstring.h(135): warning C4244: “初始化”: 从“long double”转换到“unsigned __int64”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法\lib\dglib\include\dgidgg.h(580): warning C4244: “return”: 从“const __int64”转换到“long double”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法\lib\dglib\include\dgidgg.h(796): warning C4244: “return”: 从“long double”转换到“__int64”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法\dggridv64\dggridv64\binpres.cpp(184): warning C4244: “初始化”: 从“unsigned __int64”转换到“unsigned int”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法\dggridv64\dggridv64\binpres.cpp(217): warning C4244: “初始化”: 从“unsigned __int64”转换到“long”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法\dggridv64\dggridv64\binpres.cpp(381): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法\dggridv64\dggridv64\binpres.cpp(382): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+d:\demos\dggandglc\实验程序\扫描线填充法\dggridv64\dggridv64\binpres.cpp(504): warning C4244: “初始化”: 从“unsigned __int64”转换到“unsigned long”，可能丢失数据
+  正在生成代码...
+dglib.lib(DgBase.obj) : error LNK2038: 检测到“_MSC_VER”的不匹配项: 值“1800”不匹配值“1900”(binpres.obj 中)
+dglib.lib(DgParamList.obj) : error LNK2038: 检测到“_MSC_VER”的不匹配项: 值“1800”不匹配值“1900”(binpres.obj 中)
+dglib.lib(DgRFNetwork.obj) : error LNK2038: 检测到“_MSC_VER”的不匹配项: 值“1800”不匹配值“1900”(binpres.obj 中)
+dglib.lib(DgLocBase.obj) : error LNK2038: 检测到“_MSC_VER”的不匹配项: 值“1800”不匹配值“1900”(binpres.obj 中)
+dglib.lib(DgRFBase.obj) : error LNK2038: 检测到“_MSC_VER”的不匹配项: 值“1800”不匹配值“1900”(binpres.obj 中)
+dglib.lib(DgAddressBase.obj) : error LNK2038: 检测到“_MSC_VER”的不匹配项: 值“1800”不匹配值“1900”(binpres.obj 中)
+dglib.lib(DgLocation.obj) : error LNK2038: 检测到“_MSC_VER”的不匹配项: 值“1800”不匹配值“1900”(binpres.obj 中)
+dglib.lib(DgDistanceBase.obj) : error LNK2038: 检测到“_MSC_VER”的不匹配项: 值“1800”不匹配值“1900”(binpres.obj 中)
+dglib.lib(DgEllipsoidRF.obj) : error LNK2038: 检测到“_MSC_VER”的不匹配项: 值“1800”不匹配值“1900”(binpres.obj 中)
+dglib.lib(DgGeoSphRF.obj) : error LNK2038: 检测到“_MSC_VER”的不匹配项: 值“1800”不匹配值“1900”(binpres.obj 中)
+dglib.lib(DgIDGG.obj) : error LNK2038: 检测到“_MSC_VER”的不匹配项: 值“1800”不匹配值“1900”(binpres.obj 中)
+dglib.lib(DgInputStream.obj) : error LNK2038: 检测到“_MSC_VER”的不匹配项: 值“1800”不匹配值“1900”(binpres.obj 中)
+dglib.lib(DgDVec2D.obj) : error LNK2038: 检测到“_MSC_VER”的不匹配项: 值“1800”不匹配值“1900”(binpres.obj 中)
+dglib.lib(DgConverterBase.obj) : error LNK2038: 检测到“_MSC_VER”的不匹配项: 值“1800”不匹配值“1900”(binpres.obj 中)
+dglib.lib(DgProjGnomonicRF.obj) : error LNK2038: 检测到“_MSC_VER”的不匹配项: 值“1800”不匹配值“1900”(binpres.obj 中)
+dglib.lib(DgLocVector.obj) : error LNK2038: 检测到“_MSC_VER”的不匹配项: 值“1800”不匹配值“1900”(binpres.obj 中)
+dglib.lib(DgRandom.obj) : error LNK2038: 检测到“_MSC_VER”的不匹配项: 值“1800”不匹配值“1900”(binpres.obj 中)
+dglib.lib(DgOutLocFile.obj) : error LNK2038: 检测到“_MSC_VER”的不匹配项: 值“1800”不匹配值“1900”(binpres.obj 中)
+dglib.lib(DgOutShapefile.obj) : error LNK2038: 检测到“_MSC_VER”的不匹配项: 值“1800”不匹配值“1900”(binpres.obj 中)
+dglib.lib(DgBoundedRF2D.obj) : error LNK2038: 检测到“_MSC_VER”的不匹配项: 值“1800”不匹配值“1900”(binpres.obj 中)
+dglib.lib(DgCell.obj) : error LNK2038: 检测到“_MSC_VER”的不匹配项: 值“1800”不匹配值“1900”(binpres.obj 中)
+dglib.lib(DgLocList.obj) : error LNK2038: 检测到“_MSC_VER”的不匹配项: 值“1800”不匹配值“1900”(binpres.obj 中)
+dglib.lib(DgOutRandPtsText.obj) : error LNK2038: 检测到“_MSC_VER”的不匹配项: 值“1800”不匹配值“1900”(binpres.obj 中)
+dglib.lib(DgDmdD4Grid2D.obj) : error LNK2038: 检测到“_MSC_VER”的不匹配项: 值“1800”不匹配值“1900”(binpres.obj 中)
+dglib.lib(DgIDGGS.obj) : error LNK2038: 检测到“_MSC_VER”的不匹配项: 值“1800”不匹配值“1900”(binpres.obj 中)
+dglib.lib(DgSuperfund.obj) : error LNK2038: 检测到“_MSC_VER”的不匹配项: 值“1800”不匹配值“1900”(binpres.obj 中)
+dglib.lib(DgInShapefile.obj) : error LNK2038: 检测到“_MSC_VER”的不匹配项: 值“1800”不匹配值“1900”(binpres.obj 中)
+dglib.lib(DgInShapefileAtt.obj) : error LNK2038: 检测到“_MSC_VER”的不匹配项: 值“1800”不匹配值“1900”(binpres.obj 中)
+dglib.lib(DgInAIGenFile.obj) : error LNK2038: 检测到“_MSC_VER”的不匹配项: 值“1800”不匹配值“1900”(binpres.obj 中)
+dglib.lib(DgDmdD4Grid2DS.obj) : error LNK2038: 检测到“_MSC_VER”的不匹配项: 值“1800”不匹配值“1900”(binpres.obj 中)
+dglib.lib(DgOutputStream.obj) : error LNK2038: 检测到“_MSC_VER”的不匹配项: 值“1800”不匹配值“1900”(binpres.obj 中)
+dglib.lib(DgOutAIGenFile.obj) : error LNK2038: 检测到“_MSC_VER”的不匹配项: 值“1800”不匹配值“1900”(binpres.obj 中)
+dglib.lib(DgSeriesConverter.obj) : error LNK2038: 检测到“_MSC_VER”的不匹配项: 值“1800”不匹配值“1900”(binpres.obj 中)
+dglib.lib(DgIVec2D.obj) : error LNK2038: 检测到“_MSC_VER”的不匹配项: 值“1800”不匹配值“1900”(binpres.obj 中)
+dglib.lib(DgPolygon.obj) : error LNK2038: 检测到“_MSC_VER”的不匹配项: 值“1800”不匹配值“1900”(binpres.obj 中)
+dglib.lib(DgProjTriRF.obj) : error LNK2038: 检测到“_MSC_VER”的不匹配项: 值“1800”不匹配值“1900”(binpres.obj 中)
+dglib.lib(DgIcosaMap.obj) : error LNK2038: 检测到“_MSC_VER”的不匹配项: 值“1800”不匹配值“1900”(binpres.obj 中)
+dglib.lib(DgHexGrid2DS.obj) : error LNK2038: 检测到“_MSC_VER”的不匹配项: 值“1800”不匹配值“1900”(binpres.obj 中)
+dglib.lib(DgTriGrid2DS.obj) : error LNK2038: 检测到“_MSC_VER”的不匹配项: 值“1800”不匹配值“1900”(binpres.obj 中)
+dglib.lib(DgBoundedIDGG.obj) : error LNK2038: 检测到“_MSC_VER”的不匹配项: 值“1800”不匹配值“1900”(binpres.obj 中)
+dglib.lib(DgProjISEA.obj) : error LNK2038: 检测到“_MSC_VER”的不匹配项: 值“1800”不匹配值“1900”(binpres.obj 中)
+dglib.lib(DgProjFuller.obj) : error LNK2038: 检测到“_MSC_VER”的不匹配项: 值“1800”不匹配值“1900”(binpres.obj 中)
+dglib.lib(DgOutKMLfile.obj) : error LNK2038: 检测到“_MSC_VER”的不匹配项: 值“1800”不匹配值“1900”(binpres.obj 中)
+dglib.lib(DgOutGeoJSONFile.obj) : error LNK2038: 检测到“_MSC_VER”的不匹配项: 值“1800”不匹配值“1900”(binpres.obj 中)
+dglib.lib(DgOutPtsText.obj) : error LNK2038: 检测到“_MSC_VER”的不匹配项: 值“1800”不匹配值“1900”(binpres.obj 中)
+dglib.lib(DgOutLocTextFile.obj) : error LNK2038: 检测到“_MSC_VER”的不匹配项: 值“1800”不匹配值“1900”(binpres.obj 中)
+dglib.lib(DgIDGGS3H.obj) : error LNK2038: 检测到“_MSC_VER”的不匹配项: 值“1800”不匹配值“1900”(binpres.obj 中)
+dglib.lib(DgIDGGS43H.obj) : error LNK2038: 检测到“_MSC_VER”的不匹配项: 值“1800”不匹配值“1900”(binpres.obj 中)
+dglib.lib(DgIDGGS4H.obj) : error LNK2038: 检测到“_MSC_VER”的不匹配项: 值“1800”不匹配值“1900”(binpres.obj 中)
+dglib.lib(DgIDGGS4D.obj) : error LNK2038: 检测到“_MSC_VER”的不匹配项: 值“1800”不匹配值“1900”(binpres.obj 中)
+dglib.lib(DgIDGGS4T.obj) : error LNK2038: 检测到“_MSC_VER”的不匹配项: 值“1800”不匹配值“1900”(binpres.obj 中)
+dglib.lib(DgInLocTextFile.obj) : error LNK2038: 检测到“_MSC_VER”的不匹配项: 值“1800”不匹配值“1900”(binpres.obj 中)
+dglib.lib(DgDmdD8Grid2D.obj) : error LNK2038: 检测到“_MSC_VER”的不匹配项: 值“1800”不匹配值“1900”(binpres.obj 中)
+dglib.lib(DgHexC1Grid2D.obj) : error LNK2038: 检测到“_MSC_VER”的不匹配项: 值“1800”不匹配值“1900”(binpres.obj 中)
+dglib.lib(DgHexC2Grid2D.obj) : error LNK2038: 检测到“_MSC_VER”的不匹配项: 值“1800”不匹配值“1900”(binpres.obj 中)
+dglib.lib(DgTriGrid2D.obj) : error LNK2038: 检测到“_MSC_VER”的不匹配项: 值“1800”不匹配值“1900”(binpres.obj 中)
+dglib.lib(DgBoundedHexC2RF2D.obj) : error LNK2038: 检测到“_MSC_VER”的不匹配项: 值“1800”不匹配值“1900”(binpres.obj 中)
+LINK : fatal error LNK1561: 必须定义入口点
