@@ -1,0 +1,410 @@
+﻿Build started 2018/11/23 20:27:50.
+     1>Project "C:\Users\Charley\Desktop\DGGRIDv64_VS2013\DGGRIDv64\dglib\dglib.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I..\..\lib\shapelib\include /I..\..\lib\proj4lib\include /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _CRT_SECURE_NO_WARNINGS /D _USE_MATH_DEFINES /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"..\..\lib\dglib\lib\x86\dglib.pdb" /Gd /TP /analyze- /errorReport:prompt DgAddressBase.cpp DgBase.cpp DgBoundedHexC2RF2D.cpp DgBoundedIDGG.cpp DgBoundedIDGGS.cpp DgBoundedRF2D.cpp DgBoundedRFS2D.cpp DgCell.cpp DgColor.cpp DgConverterBase.cpp DgDiscRFS2D.cpp DgDistanceBase.cpp DgDmdD4Grid2D.cpp DgDmdD4Grid2DS.cpp DgDmdD8Grid2D.cpp DgDmdD8Grid2DS.cpp DgDVec2D.cpp DgDVec3D.cpp DgEllipsoidRF.cpp DgGeoSphRF.cpp DgHexC1Grid2D.cpp DgHexC2Grid2D.cpp DgHexGrid2DS.cpp DgIcosaMap.cpp DgIDGG.cpp DgIDGGS.cpp DgIDGGS3H.cpp DgIDGGS43H.cpp DgIDGGS4D.cpp DgIDGGS4H.cpp DgIDGGS4T.cpp DgInAIGenFile.cpp DgInLocTextFile.cpp DgInputStream.cpp DgInShapefile.cpp DgInShapefileAtt.cpp DgIVec2D.cpp DgIVec3D.cpp DgLocation.cpp DgLocBase.cpp DgLocList.cpp DgLocVector.cpp DgOutAIGenFile.cpp DgOutGeoJSONFile.cpp DgOutKMLfile.cpp DgOutLocFile.cpp DgOutLocTextFile.cpp DgOutPtsText.cpp DgOutputStream.cpp DgOutRandPtsText.cpp DgOutShapefile.cpp DgParamList.cpp DgPolygon.cpp DgProjFuller.cpp DgProjGnomonicRF.cpp DgProjISEA.cpp DgProjTriRF.cpp DgRandom.cpp DgRFBase.cpp DgRFNetwork.cpp DgSeriesConverter.cpp DgSqrD4Grid2D.cpp DgSqrD4Grid2DS.cpp DgSqrD8Grid2D.cpp DgSqrD8Grid2DS.cpp DgSuperfund.cpp DgTriGrid2D.cpp DgTriGrid2DS.cpp DgUtil.cpp
+         DgUtil.cpp
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgutil.h(106): warning C4244: 'return' : conversion from '__int64' to 'long', possible loss of data
+         DgTriGrid2DS.cpp
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgutil.h(106): warning C4244: 'return' : conversion from '__int64' to 'long', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgstring.h(135): warning C4244: 'initializing' : conversion from 'long double' to 'unsigned __int64', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgbase.h(90): warning C4520: 'DgBase' : multiple default constructors specified
+         DgTriGrid2D.cpp
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgutil.h(106): warning C4244: 'return' : conversion from '__int64' to 'long', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgstring.h(135): warning C4244: 'initializing' : conversion from 'long double' to 'unsigned __int64', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgbase.h(90): warning C4520: 'DgBase' : multiple default constructors specified
+         DgSuperfund.cpp
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgbase.h(90): warning C4520: 'DgBase' : multiple default constructors specified
+         DgSqrD8Grid2DS.cpp
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgutil.h(106): warning C4244: 'return' : conversion from '__int64' to 'long', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgstring.h(135): warning C4244: 'initializing' : conversion from 'long double' to 'unsigned __int64', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgbase.h(90): warning C4520: 'DgBase' : multiple default constructors specified
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgsqrd4grid2d.h(67): warning C4244: 'argument' : conversion from '__int64' to 'long double', possible loss of data
+         DgSqrD8Grid2D.cpp
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgutil.h(106): warning C4244: 'return' : conversion from '__int64' to 'long', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgstring.h(135): warning C4244: 'initializing' : conversion from 'long double' to 'unsigned __int64', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgbase.h(90): warning C4520: 'DgBase' : multiple default constructors specified
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgsqrd4grid2d.h(67): warning C4244: 'argument' : conversion from '__int64' to 'long double', possible loss of data
+         DgSqrD4Grid2DS.cpp
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgutil.h(106): warning C4244: 'return' : conversion from '__int64' to 'long', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgstring.h(135): warning C4244: 'initializing' : conversion from 'long double' to 'unsigned __int64', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgbase.h(90): warning C4520: 'DgBase' : multiple default constructors specified
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgsqrd4grid2d.h(67): warning C4244: 'argument' : conversion from '__int64' to 'long double', possible loss of data
+         DgSqrD4Grid2D.cpp
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgutil.h(106): warning C4244: 'return' : conversion from '__int64' to 'long', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgstring.h(135): warning C4244: 'initializing' : conversion from 'long double' to 'unsigned __int64', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgbase.h(90): warning C4520: 'DgBase' : multiple default constructors specified
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgsqrd4grid2d.h(67): warning C4244: 'argument' : conversion from '__int64' to 'long double', possible loss of data
+         DgSeriesConverter.cpp
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgbase.h(90): warning C4520: 'DgBase' : multiple default constructors specified
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgutil.h(106): warning C4244: 'return' : conversion from '__int64' to 'long', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgstring.h(135): warning C4244: 'initializing' : conversion from 'long double' to 'unsigned __int64', possible loss of data
+         DgRFNetwork.cpp
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgbase.h(90): warning C4520: 'DgBase' : multiple default constructors specified
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgutil.h(106): warning C4244: 'return' : conversion from '__int64' to 'long', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgstring.h(135): warning C4244: 'initializing' : conversion from 'long double' to 'unsigned __int64', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgrfnetwork.cpp(37): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgrfnetwork.cpp(39): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgrfnetwork.cpp(40): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgrfnetwork.cpp(43): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgrfnetwork.cpp(61): warning C4800: 'DgConverterBase *const ' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgrfnetwork.cpp(119): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgrfnetwork.cpp(121): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgrfnetwork.cpp(122): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgrfnetwork.cpp(123): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgrfnetwork.cpp(125): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgrfnetwork.cpp(150): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgrfnetwork.cpp(151): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgrfnetwork.cpp(154): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+         DgRFBase.cpp
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgbase.h(90): warning C4520: 'DgBase' : multiple default constructors specified
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgutil.h(106): warning C4244: 'return' : conversion from '__int64' to 'long', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgstring.h(135): warning C4244: 'initializing' : conversion from 'long double' to 'unsigned __int64', possible loss of data
+         DgRandom.cpp
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgutil.h(106): warning C4244: 'return' : conversion from '__int64' to 'long', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgstring.h(135): warning C4244: 'initializing' : conversion from 'long double' to 'unsigned __int64', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgbase.h(90): warning C4520: 'DgBase' : multiple default constructors specified
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgrandom.cpp(136): warning C4244: '=' : conversion from 'unsigned long' to 'short', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgrandom.cpp(137): warning C4244: '=' : conversion from 'unsigned long' to 'short', possible loss of data
+         DgProjTriRF.cpp
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgutil.h(106): warning C4244: 'return' : conversion from '__int64' to 'long', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgstring.h(135): warning C4244: 'initializing' : conversion from 'long double' to 'unsigned __int64', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgbase.h(90): warning C4520: 'DgBase' : multiple default constructors specified
+         DgProjISEA.cpp
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgutil.h(106): warning C4244: 'return' : conversion from '__int64' to 'long', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgstring.h(135): warning C4244: 'initializing' : conversion from 'long double' to 'unsigned __int64', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgbase.h(90): warning C4520: 'DgBase' : multiple default constructors specified
+         DgProjGnomonicRF.cpp
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgutil.h(106): warning C4244: 'return' : conversion from '__int64' to 'long', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgstring.h(135): warning C4244: 'initializing' : conversion from 'long double' to 'unsigned __int64', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgbase.h(90): warning C4520: 'DgBase' : multiple default constructors specified
+         DgProjFuller.cpp
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgutil.h(106): warning C4244: 'return' : conversion from '__int64' to 'long', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgstring.h(135): warning C4244: 'initializing' : conversion from 'long double' to 'unsigned __int64', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgbase.h(90): warning C4520: 'DgBase' : multiple default constructors specified
+         DgPolygon.cpp
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgutil.h(106): warning C4244: 'return' : conversion from '__int64' to 'long', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgstring.h(135): warning C4244: 'initializing' : conversion from 'long double' to 'unsigned __int64', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgbase.h(90): warning C4520: 'DgBase' : multiple default constructors specified
+         DgParamList.cpp
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgbase.h(90): warning C4520: 'DgBase' : multiple default constructors specified
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgutil.h(106): warning C4244: 'return' : conversion from '__int64' to 'long', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgstring.h(135): warning C4244: 'initializing' : conversion from 'long double' to 'unsigned __int64', possible loss of data
+         DgOutShapefile.cpp
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgbase.h(90): warning C4520: 'DgBase' : multiple default constructors specified
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgutil.h(106): warning C4244: 'return' : conversion from '__int64' to 'long', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgstring.h(135): warning C4244: 'initializing' : conversion from 'long double' to 'unsigned __int64', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgoutshapefile.cpp(229): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgoutshapefile.cpp(233): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgoutshapefile.cpp(237): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+         DgOutRandPtsText.cpp
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgutil.h(106): warning C4244: 'return' : conversion from '__int64' to 'long', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgbase.h(90): warning C4520: 'DgBase' : multiple default constructors specified
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgstring.h(135): warning C4244: 'initializing' : conversion from 'long double' to 'unsigned __int64', possible loss of data
+         Generating Code...
+         Compiling...
+         DgOutputStream.cpp
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgbase.h(90): warning C4520: 'DgBase' : multiple default constructors specified
+         DgOutPtsText.cpp
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgutil.h(106): warning C4244: 'return' : conversion from '__int64' to 'long', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgbase.h(90): warning C4520: 'DgBase' : multiple default constructors specified
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgstring.h(135): warning C4244: 'initializing' : conversion from 'long double' to 'unsigned __int64', possible loss of data
+         DgOutLocTextFile.cpp
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgutil.h(106): warning C4244: 'return' : conversion from '__int64' to 'long', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgbase.h(90): warning C4520: 'DgBase' : multiple default constructors specified
+         DgOutLocFile.cpp
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgbase.h(90): warning C4520: 'DgBase' : multiple default constructors specified
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgutil.h(106): warning C4244: 'return' : conversion from '__int64' to 'long', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgstring.h(135): warning C4244: 'initializing' : conversion from 'long double' to 'unsigned __int64', possible loss of data
+         DgOutKMLfile.cpp
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgutil.h(106): warning C4244: 'return' : conversion from '__int64' to 'long', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgbase.h(90): warning C4520: 'DgBase' : multiple default constructors specified
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgstring.h(135): warning C4244: 'initializing' : conversion from 'long double' to 'unsigned __int64', possible loss of data
+         DgOutGeoJSONFile.cpp
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgutil.h(106): warning C4244: 'return' : conversion from '__int64' to 'long', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgbase.h(90): warning C4520: 'DgBase' : multiple default constructors specified
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgstring.h(135): warning C4244: 'initializing' : conversion from 'long double' to 'unsigned __int64', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgoutgeojsonfile.cpp(71): warning C4244: 'initializing' : conversion from 'std::streamoff' to 'long', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgoutgeojsonfile.cpp(102): warning C4129: '{' : unrecognized character escape sequence
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgoutgeojsonfile.cpp(127): warning C4129: '{' : unrecognized character escape sequence
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgoutgeojsonfile.cpp(160): warning C4129: '{' : unrecognized character escape sequence
+         DgOutAIGenFile.cpp
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgutil.h(106): warning C4244: 'return' : conversion from '__int64' to 'long', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgbase.h(90): warning C4520: 'DgBase' : multiple default constructors specified
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgstring.h(135): warning C4244: 'initializing' : conversion from 'long double' to 'unsigned __int64', possible loss of data
+         DgLocVector.cpp
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgutil.h(106): warning C4244: 'return' : conversion from '__int64' to 'long', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgstring.h(135): warning C4244: 'initializing' : conversion from 'long double' to 'unsigned __int64', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dglocvector.cpp(34): warning C4244: 'argument' : conversion from '__int64' to 'unsigned int', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dglocvector.cpp(46): warning C4244: 'argument' : conversion from '__int64' to 'unsigned int', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dglocvector.cpp(47): warning C4244: 'argument' : conversion from '__int64' to 'unsigned int', possible loss of data
+         DgLocList.cpp
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgutil.h(106): warning C4244: 'return' : conversion from '__int64' to 'long', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgstring.h(135): warning C4244: 'initializing' : conversion from 'long double' to 'unsigned __int64', possible loss of data
+         DgLocBase.cpp
+         DgLocation.cpp
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgutil.h(106): warning C4244: 'return' : conversion from '__int64' to 'long', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgstring.h(135): warning C4244: 'initializing' : conversion from 'long double' to 'unsigned __int64', possible loss of data
+         DgIVec3D.cpp
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgbase.h(90): warning C4520: 'DgBase' : multiple default constructors specified
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgutil.h(106): warning C4244: 'return' : conversion from '__int64' to 'long', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgstring.h(135): warning C4244: 'initializing' : conversion from 'long double' to 'unsigned __int64', possible loss of data
+         DgIVec2D.cpp
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgbase.h(90): warning C4520: 'DgBase' : multiple default constructors specified
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgutil.h(106): warning C4244: 'return' : conversion from '__int64' to 'long', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgstring.h(135): warning C4244: 'initializing' : conversion from 'long double' to 'unsigned __int64', possible loss of data
+         DgInShapefileAtt.cpp
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgbase.h(90): warning C4520: 'DgBase' : multiple default constructors specified
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgutil.h(106): warning C4244: 'return' : conversion from '__int64' to 'long', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgstring.h(135): warning C4244: 'initializing' : conversion from 'long double' to 'unsigned __int64', possible loss of data
+         DgInShapefile.cpp
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgbase.h(90): warning C4520: 'DgBase' : multiple default constructors specified
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgutil.h(106): warning C4244: 'return' : conversion from '__int64' to 'long', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgstring.h(135): warning C4244: 'initializing' : conversion from 'long double' to 'unsigned __int64', possible loss of data
+         DgInputStream.cpp
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgbase.h(90): warning C4520: 'DgBase' : multiple default constructors specified
+         DgInLocTextFile.cpp
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgbase.h(90): warning C4520: 'DgBase' : multiple default constructors specified
+         DgInAIGenFile.cpp
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgbase.h(90): warning C4520: 'DgBase' : multiple default constructors specified
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgutil.h(106): warning C4244: 'return' : conversion from '__int64' to 'long', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgstring.h(135): warning C4244: 'initializing' : conversion from 'long double' to 'unsigned __int64', possible loss of data
+         DgIDGGS4T.cpp
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgutil.h(106): warning C4244: 'return' : conversion from '__int64' to 'long', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgstring.h(135): warning C4244: 'initializing' : conversion from 'long double' to 'unsigned __int64', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgbase.h(90): warning C4520: 'DgBase' : multiple default constructors specified
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgidgg.h(580): warning C4244: 'return' : conversion from 'const __int64' to 'long double', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgidgg.h(796): warning C4244: 'return' : conversion from 'long double' to '__int64', possible loss of data
+         DgIDGGS4H.cpp
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgutil.h(106): warning C4244: 'return' : conversion from '__int64' to 'long', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgstring.h(135): warning C4244: 'initializing' : conversion from 'long double' to 'unsigned __int64', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgbase.h(90): warning C4520: 'DgBase' : multiple default constructors specified
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgidgg.h(580): warning C4244: 'return' : conversion from 'const __int64' to 'long double', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgidgg.h(796): warning C4244: 'return' : conversion from 'long double' to '__int64', possible loss of data
+         Generating Code...
+         Compiling...
+         DgIDGGS4D.cpp
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgutil.h(106): warning C4244: 'return' : conversion from '__int64' to 'long', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgstring.h(135): warning C4244: 'initializing' : conversion from 'long double' to 'unsigned __int64', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgbase.h(90): warning C4520: 'DgBase' : multiple default constructors specified
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgidgg.h(580): warning C4244: 'return' : conversion from 'const __int64' to 'long double', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgidgg.h(796): warning C4244: 'return' : conversion from 'long double' to '__int64', possible loss of data
+         DgIDGGS43H.cpp
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgutil.h(106): warning C4244: 'return' : conversion from '__int64' to 'long', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgstring.h(135): warning C4244: 'initializing' : conversion from 'long double' to 'unsigned __int64', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgbase.h(90): warning C4520: 'DgBase' : multiple default constructors specified
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgidgg.h(580): warning C4244: 'return' : conversion from 'const __int64' to 'long double', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgidgg.h(796): warning C4244: 'return' : conversion from 'long double' to '__int64', possible loss of data
+         DgIDGGS3H.cpp
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgutil.h(106): warning C4244: 'return' : conversion from '__int64' to 'long', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgstring.h(135): warning C4244: 'initializing' : conversion from 'long double' to 'unsigned __int64', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgbase.h(90): warning C4520: 'DgBase' : multiple default constructors specified
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgidgg.h(580): warning C4244: 'return' : conversion from 'const __int64' to 'long double', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgidgg.h(796): warning C4244: 'return' : conversion from 'long double' to '__int64', possible loss of data
+         DgIDGGS.cpp
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgutil.h(106): warning C4244: 'return' : conversion from '__int64' to 'long', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgstring.h(135): warning C4244: 'initializing' : conversion from 'long double' to 'unsigned __int64', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgbase.h(90): warning C4520: 'DgBase' : multiple default constructors specified
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgidgg.h(580): warning C4244: 'return' : conversion from 'const __int64' to 'long double', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgidgg.h(796): warning C4244: 'return' : conversion from 'long double' to '__int64', possible loss of data
+         DgIDGG.cpp
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgutil.h(106): warning C4244: 'return' : conversion from '__int64' to 'long', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgstring.h(135): warning C4244: 'initializing' : conversion from 'long double' to 'unsigned __int64', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgbase.h(90): warning C4520: 'DgBase' : multiple default constructors specified
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgidgg.h(580): warning C4244: 'return' : conversion from 'const __int64' to 'long double', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgidgg.h(796): warning C4244: 'return' : conversion from 'long double' to '__int64', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgidgg.cpp(555): warning C4244: 'argument' : conversion from '__int64' to 'int', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgidgg.cpp(556): warning C4244: 'argument' : conversion from '__int64' to 'int', possible loss of data
+         DgIcosaMap.cpp
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgutil.h(106): warning C4244: 'return' : conversion from '__int64' to 'long', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgstring.h(135): warning C4244: 'initializing' : conversion from 'long double' to 'unsigned __int64', possible loss of data
+         DgHexGrid2DS.cpp
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgutil.h(106): warning C4244: 'return' : conversion from '__int64' to 'long', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgstring.h(135): warning C4244: 'initializing' : conversion from 'long double' to 'unsigned __int64', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgbase.h(90): warning C4520: 'DgBase' : multiple default constructors specified
+         DgHexC2Grid2D.cpp
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgutil.h(106): warning C4244: 'return' : conversion from '__int64' to 'long', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgstring.h(135): warning C4244: 'initializing' : conversion from 'long double' to 'unsigned __int64', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgbase.h(90): warning C4520: 'DgBase' : multiple default constructors specified
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dghexc2grid2d.cpp(108): warning C4244: 'argument' : conversion from '__int64' to 'int', possible loss of data
+         DgHexC1Grid2D.cpp
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgutil.h(106): warning C4244: 'return' : conversion from '__int64' to 'long', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgstring.h(135): warning C4244: 'initializing' : conversion from 'long double' to 'unsigned __int64', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgbase.h(90): warning C4520: 'DgBase' : multiple default constructors specified
+         DgGeoSphRF.cpp
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgutil.h(106): warning C4244: 'return' : conversion from '__int64' to 'long', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgstring.h(135): warning C4244: 'initializing' : conversion from 'long double' to 'unsigned __int64', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgbase.h(90): warning C4520: 'DgBase' : multiple default constructors specified
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgidgg.h(580): warning C4244: 'return' : conversion from 'const __int64' to 'long double', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgidgg.h(796): warning C4244: 'return' : conversion from 'long double' to '__int64', possible loss of data
+         DgEllipsoidRF.cpp
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgutil.h(106): warning C4244: 'return' : conversion from '__int64' to 'long', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgstring.h(135): warning C4244: 'initializing' : conversion from 'long double' to 'unsigned __int64', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgbase.h(90): warning C4520: 'DgBase' : multiple default constructors specified
+         DgDVec3D.cpp
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgutil.h(106): warning C4244: 'return' : conversion from '__int64' to 'long', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgstring.h(135): warning C4244: 'initializing' : conversion from 'long double' to 'unsigned __int64', possible loss of data
+         DgDVec2D.cpp
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgbase.h(90): warning C4520: 'DgBase' : multiple default constructors specified
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgutil.h(106): warning C4244: 'return' : conversion from '__int64' to 'long', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgstring.h(135): warning C4244: 'initializing' : conversion from 'long double' to 'unsigned __int64', possible loss of data
+         DgDmdD8Grid2DS.cpp
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgutil.h(106): warning C4244: 'return' : conversion from '__int64' to 'long', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgstring.h(135): warning C4244: 'initializing' : conversion from 'long double' to 'unsigned __int64', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgbase.h(90): warning C4520: 'DgBase' : multiple default constructors specified
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgdmdd4grid2d.h(85): warning C4244: 'argument' : conversion from '__int64' to 'long double', possible loss of data
+         DgDmdD8Grid2D.cpp
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgutil.h(106): warning C4244: 'return' : conversion from '__int64' to 'long', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgstring.h(135): warning C4244: 'initializing' : conversion from 'long double' to 'unsigned __int64', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgbase.h(90): warning C4520: 'DgBase' : multiple default constructors specified
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgdmdd4grid2d.h(85): warning C4244: 'argument' : conversion from '__int64' to 'long double', possible loss of data
+         DgDmdD4Grid2DS.cpp
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgutil.h(106): warning C4244: 'return' : conversion from '__int64' to 'long', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgstring.h(135): warning C4244: 'initializing' : conversion from 'long double' to 'unsigned __int64', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgbase.h(90): warning C4520: 'DgBase' : multiple default constructors specified
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgdmdd4grid2d.h(85): warning C4244: 'argument' : conversion from '__int64' to 'long double', possible loss of data
+         DgDmdD4Grid2D.cpp
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgutil.h(106): warning C4244: 'return' : conversion from '__int64' to 'long', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgstring.h(135): warning C4244: 'initializing' : conversion from 'long double' to 'unsigned __int64', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgbase.h(90): warning C4520: 'DgBase' : multiple default constructors specified
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgdmdd4grid2d.h(85): warning C4244: 'argument' : conversion from '__int64' to 'long double', possible loss of data
+         DgDistanceBase.cpp
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgutil.h(106): warning C4244: 'return' : conversion from '__int64' to 'long', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgstring.h(135): warning C4244: 'initializing' : conversion from 'long double' to 'unsigned __int64', possible loss of data
+         DgDiscRFS2D.cpp
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgutil.h(106): warning C4244: 'return' : conversion from '__int64' to 'long', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgstring.h(135): warning C4244: 'initializing' : conversion from 'long double' to 'unsigned __int64', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgbase.h(90): warning C4520: 'DgBase' : multiple default constructors specified
+         DgConverterBase.cpp
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgbase.h(90): warning C4520: 'DgBase' : multiple default constructors specified
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgutil.h(106): warning C4244: 'return' : conversion from '__int64' to 'long', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgstring.h(135): warning C4244: 'initializing' : conversion from 'long double' to 'unsigned __int64', possible loss of data
+         Generating Code...
+         Compiling...
+         DgColor.cpp
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgbase.h(90): warning C4520: 'DgBase' : multiple default constructors specified
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgutil.h(106): warning C4244: 'return' : conversion from '__int64' to 'long', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgcolor.cpp(141): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgcolor.cpp(142): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgcolor.cpp(143): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgcolor.cpp(190): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgcolor.cpp(208): warning C4244: 'return' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgcolor.cpp(216): warning C4244: 'return' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgcolor.cpp(245): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgcolor.cpp(252): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgcolor.cpp(254): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgcolor.cpp(256): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgcolor.cpp(274): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgcolor.cpp(292): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgcolor.cpp(303): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgcolor.cpp(307): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgcolor.cpp(362): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgcolor.cpp(363): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgcolor.cpp(364): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+         DgCell.cpp
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgbase.h(90): warning C4520: 'DgBase' : multiple default constructors specified
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgutil.h(106): warning C4244: 'return' : conversion from '__int64' to 'long', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgstring.h(135): warning C4244: 'initializing' : conversion from 'long double' to 'unsigned __int64', possible loss of data
+         DgBoundedRFS2D.cpp
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgutil.h(106): warning C4244: 'return' : conversion from '__int64' to 'long', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgstring.h(135): warning C4244: 'initializing' : conversion from 'long double' to 'unsigned __int64', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgbase.h(90): warning C4520: 'DgBase' : multiple default constructors specified
+         DgBoundedRF2D.cpp
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgutil.h(106): warning C4244: 'return' : conversion from '__int64' to 'long', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgstring.h(135): warning C4244: 'initializing' : conversion from 'long double' to 'unsigned __int64', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgbase.h(90): warning C4520: 'DgBase' : multiple default constructors specified
+         DgBoundedIDGGS.cpp
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgutil.h(106): warning C4244: 'return' : conversion from '__int64' to 'long', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgstring.h(135): warning C4244: 'initializing' : conversion from 'long double' to 'unsigned __int64', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgbase.h(90): warning C4520: 'DgBase' : multiple default constructors specified
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgidgg.h(580): warning C4244: 'return' : conversion from 'const __int64' to 'long double', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgidgg.h(796): warning C4244: 'return' : conversion from 'long double' to '__int64', possible loss of data
+         DgBoundedIDGG.cpp
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgutil.h(106): warning C4244: 'return' : conversion from '__int64' to 'long', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgstring.h(135): warning C4244: 'initializing' : conversion from 'long double' to 'unsigned __int64', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgbase.h(90): warning C4520: 'DgBase' : multiple default constructors specified
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgidgg.h(580): warning C4244: 'return' : conversion from 'const __int64' to 'long double', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgidgg.h(796): warning C4244: 'return' : conversion from 'long double' to '__int64', possible loss of data
+         DgBoundedHexC2RF2D.cpp
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgutil.h(106): warning C4244: 'return' : conversion from '__int64' to 'long', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgstring.h(135): warning C4244: 'initializing' : conversion from 'long double' to 'unsigned __int64', possible loss of data
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgbase.h(90): warning C4520: 'DgBase' : multiple default constructors specified
+         DgBase.cpp
+     1>c:\users\charley\desktop\dggridv64_vs2013\dggridv64\dglib\dgbase.h(90): warning C4520: 'DgBase' : multiple default constructors specified
+         DgAddressBase.cpp
+         Generating Code...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"..\..\lib\dglib\lib\x86\dglib.lib" /NOLOGO Debug\DgAddressBase.obj
+         Debug\DgBase.obj
+         Debug\DgBoundedHexC2RF2D.obj
+         Debug\DgBoundedIDGG.obj
+         Debug\DgBoundedIDGGS.obj
+         Debug\DgBoundedRF2D.obj
+         Debug\DgBoundedRFS2D.obj
+         Debug\DgCell.obj
+         Debug\DgColor.obj
+         Debug\DgConverterBase.obj
+         Debug\DgDiscRFS2D.obj
+         Debug\DgDistanceBase.obj
+         Debug\DgDmdD4Grid2D.obj
+         Debug\DgDmdD4Grid2DS.obj
+         Debug\DgDmdD8Grid2D.obj
+         Debug\DgDmdD8Grid2DS.obj
+         Debug\DgDVec2D.obj
+         Debug\DgDVec3D.obj
+         Debug\DgEllipsoidRF.obj
+         Debug\DgGeoSphRF.obj
+         Debug\DgHexC1Grid2D.obj
+         Debug\DgHexC2Grid2D.obj
+         Debug\DgHexGrid2DS.obj
+         Debug\DgIcosaMap.obj
+         Debug\DgIDGG.obj
+         Debug\DgIDGGS.obj
+         Debug\DgIDGGS3H.obj
+         Debug\DgIDGGS43H.obj
+         Debug\DgIDGGS4D.obj
+         Debug\DgIDGGS4H.obj
+         Debug\DgIDGGS4T.obj
+         Debug\DgInAIGenFile.obj
+         Debug\DgInLocTextFile.obj
+         Debug\DgInputStream.obj
+         Debug\DgInShapefile.obj
+         Debug\DgInShapefileAtt.obj
+         Debug\DgIVec2D.obj
+         Debug\DgIVec3D.obj
+         Debug\DgLocation.obj
+         Debug\DgLocBase.obj
+         Debug\DgLocList.obj
+         Debug\DgLocVector.obj
+         Debug\DgOutAIGenFile.obj
+         Debug\DgOutGeoJSONFile.obj
+         Debug\DgOutKMLfile.obj
+         Debug\DgOutLocFile.obj
+         Debug\DgOutLocTextFile.obj
+         Debug\DgOutPtsText.obj
+         Debug\DgOutputStream.obj
+         Debug\DgOutRandPtsText.obj
+         Debug\DgOutShapefile.obj
+         Debug\DgParamList.obj
+         Debug\DgPolygon.obj
+         Debug\DgProjFuller.obj
+         Debug\DgProjGnomonicRF.obj
+         Debug\DgProjISEA.obj
+         Debug\DgProjTriRF.obj
+         Debug\DgRandom.obj
+         Debug\DgRFBase.obj
+         Debug\DgRFNetwork.obj
+         Debug\DgSeriesConverter.obj
+         Debug\DgSqrD4Grid2D.obj
+         Debug\DgSqrD4Grid2DS.obj
+         Debug\DgSqrD8Grid2D.obj
+         Debug\DgSqrD8Grid2DS.obj
+         Debug\DgSuperfund.obj
+         Debug\DgTriGrid2D.obj
+         Debug\DgTriGrid2DS.obj
+         Debug\DgUtil.obj
+         dglib.vcxproj -> C:\Users\Charley\Desktop\DGGRIDv64_VS2013\DGGRIDv64\dglib\..\..\lib\dglib\lib\x86\dglib.lib
+     1>Done Building Project "C:\Users\Charley\Desktop\DGGRIDv64_VS2013\DGGRIDv64\dglib\dglib.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:53.51

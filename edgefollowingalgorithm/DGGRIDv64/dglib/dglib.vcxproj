@@ -1,0 +1,307 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Dg2WayConverter.h" />
+    <ClInclude Include="DgAddress.h" />
+    <ClInclude Include="DgAddressBase.h" />
+    <ClInclude Include="DgBase.h" />
+    <ClInclude Include="DgBoundedHexC2RF2D.h" />
+    <ClInclude Include="DgBoundedIDGG.h" />
+    <ClInclude Include="DgBoundedIDGGS.h" />
+    <ClInclude Include="DgBoundedRF.h" />
+    <ClInclude Include="DgBoundedRF.hpp" />
+    <ClInclude Include="DgBoundedRF2D.h" />
+    <ClInclude Include="DgBoundedRFBase.h" />
+    <ClInclude Include="DgBoundedRFS2D.h" />
+    <ClInclude Include="DgCell.h" />
+    <ClInclude Include="DgColor.h" />
+    <ClInclude Include="DgConstants.h" />
+    <ClInclude Include="DgContCartRF.h" />
+    <ClInclude Include="DgConverter.h" />
+    <ClInclude Include="DgConverterBase.h" />
+    <ClInclude Include="DgDiscRF.h" />
+    <ClInclude Include="DgDiscRF.hpp" />
+    <ClInclude Include="DgDiscRF2D.h" />
+    <ClInclude Include="DgDiscRFS.h" />
+    <ClInclude Include="DgDiscRFS.hpp" />
+    <ClInclude Include="DgDiscRFS2D.h" />
+    <ClInclude Include="DgDistance.h" />
+    <ClInclude Include="DgDmdD4Grid2D.h" />
+    <ClInclude Include="DgDmdD4Grid2DS.h" />
+    <ClInclude Include="DgDmdD8Grid2D.h" />
+    <ClInclude Include="DgDmdD8Grid2DS.h" />
+    <ClInclude Include="DgDVec2D.h" />
+    <ClInclude Include="DgDVec3D.h" />
+    <ClInclude Include="DgEllipsoidRF.h" />
+    <ClInclude Include="DgGeoDatumRF.h" />
+    <ClInclude Include="DgGeoProjConverter.h" />
+    <ClInclude Include="DgGeoProjRF.h" />
+    <ClInclude Include="DgGeoSphRF.h" />
+    <ClInclude Include="DgHexC1Grid2D.h" />
+    <ClInclude Include="DgHexC2Grid2D.h" />
+    <ClInclude Include="DgHexGrid2DS.h" />
+    <ClInclude Include="DgIcosaMap.h" />
+    <ClInclude Include="DgIcosaProj.h" />
+    <ClInclude Include="DgIDGG.h" />
+    <ClInclude Include="DgIDGGS.h" />
+    <ClInclude Include="DgIDGGS3H.h" />
+    <ClInclude Include="DgIDGGS43H.h" />
+    <ClInclude Include="DgIDGGS4D.h" />
+    <ClInclude Include="DgIDGGS4H.h" />
+    <ClInclude Include="DgIDGGS4T.h" />
+    <ClInclude Include="DgInAIGenFile.h" />
+    <ClInclude Include="DgInLocFile.h" />
+    <ClInclude Include="DgInLocTextFile.h" />
+    <ClInclude Include="DgInputStream.h" />
+    <ClInclude Include="DgInShapefile.h" />
+    <ClInclude Include="DgInShapefileAtt.h" />
+    <ClInclude Include="DgIVec2D.h" />
+    <ClInclude Include="DgIVec3D.h" />
+    <ClInclude Include="DgLabelLoc.h" />
+    <ClInclude Include="DgLocation.h" />
+    <ClInclude Include="DgLocBase.h" />
+    <ClInclude Include="DgLocList.h" />
+    <ClInclude Include="DgLocVector.h" />
+    <ClInclude Include="DgOutAIGenFile.h" />
+    <ClInclude Include="DgOutGeoJSONFile.h" />
+    <ClInclude Include="DgOutKMLfile.h" />
+    <ClInclude Include="DgOutLocFile.h" />
+    <ClInclude Include="DgOutLocTextFile.h" />
+    <ClInclude Include="DgOutPtsText.h" />
+    <ClInclude Include="DgOutputStream.h" />
+    <ClInclude Include="DgOutRandPtsText.h" />
+    <ClInclude Include="DgOutShapefile.h" />
+    <ClInclude Include="DgParamList.h" />
+    <ClInclude Include="DgPhysicalRF.h" />
+    <ClInclude Include="DgPhysicalRF.hpp" />
+    <ClInclude Include="DgPhysicalRF2D.h" />
+    <ClInclude Include="DgPhysicalRF2D.hpp" />
+    <ClInclude Include="DgPhysicalRFBase.h" />
+    <ClInclude Include="DgPhysicalRFBase.hpp" />
+    <ClInclude Include="DgPhysicalRFS2D.h" />
+    <ClInclude Include="DgPhysicalRFS2D.hpp" />
+    <ClInclude Include="DgPolygon.h" />
+    <ClInclude Include="DgProjFuller.h" />
+    <ClInclude Include="DgProjGnomonicRF.h" />
+    <ClInclude Include="DgProjISEA.h" />
+    <ClInclude Include="DgProjTriRF.h" />
+    <ClInclude Include="DgRadixString.h" />
+    <ClInclude Include="DgRandom.h" />
+    <ClInclude Include="DgRF.h" />
+    <ClInclude Include="DgRF.hpp" />
+    <ClInclude Include="DgRFBase.h" />
+    <ClInclude Include="DgRFNetwork.h" />
+    <ClInclude Include="DgSeriesConverter.h" />
+    <ClInclude Include="DgSpatialDB.h" />
+    <ClInclude Include="DgSqrD4Grid2D.h" />
+    <ClInclude Include="DgSqrD4Grid2DS.h" />
+    <ClInclude Include="DgSqrD8Grid2D.h" />
+    <ClInclude Include="DgSqrD8Grid2DS.h" />
+    <ClInclude Include="DgString.h" />
+    <ClInclude Include="DgSuperfund.h" />
+    <ClInclude Include="DgTriGrid2D.h" />
+    <ClInclude Include="DgTriGrid2DS.h" />
+    <ClInclude Include="DgUtil.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="DgAddressBase.cpp" />
+    <ClCompile Include="DgBase.cpp" />
+    <ClCompile Include="DgBoundedHexC2RF2D.cpp" />
+    <ClCompile Include="DgBoundedIDGG.cpp" />
+    <ClCompile Include="DgBoundedIDGGS.cpp" />
+    <ClCompile Include="DgBoundedRF2D.cpp" />
+    <ClCompile Include="DgBoundedRFS2D.cpp" />
+    <ClCompile Include="DgCell.cpp" />
+    <ClCompile Include="DgColor.cpp" />
+    <ClCompile Include="DgConverterBase.cpp" />
+    <ClCompile Include="DgDiscRFS2D.cpp" />
+    <ClCompile Include="DgDistanceBase.cpp" />
+    <ClCompile Include="DgDmdD4Grid2D.cpp" />
+    <ClCompile Include="DgDmdD4Grid2DS.cpp" />
+    <ClCompile Include="DgDmdD8Grid2D.cpp" />
+    <ClCompile Include="DgDmdD8Grid2DS.cpp" />
+    <ClCompile Include="DgDVec2D.cpp" />
+    <ClCompile Include="DgDVec3D.cpp" />
+    <ClCompile Include="DgEllipsoidRF.cpp" />
+    <ClCompile Include="DgGeoSphRF.cpp" />
+    <ClCompile Include="DgHexC1Grid2D.cpp" />
+    <ClCompile Include="DgHexC2Grid2D.cpp" />
+    <ClCompile Include="DgHexGrid2DS.cpp" />
+    <ClCompile Include="DgIcosaMap.cpp" />
+    <ClCompile Include="DgIDGG.cpp" />
+    <ClCompile Include="DgIDGGS.cpp" />
+    <ClCompile Include="DgIDGGS3H.cpp" />
+    <ClCompile Include="DgIDGGS43H.cpp" />
+    <ClCompile Include="DgIDGGS4D.cpp" />
+    <ClCompile Include="DgIDGGS4H.cpp" />
+    <ClCompile Include="DgIDGGS4T.cpp" />
+    <ClCompile Include="DgInAIGenFile.cpp" />
+    <ClCompile Include="DgInLocTextFile.cpp" />
+    <ClCompile Include="DgInputStream.cpp" />
+    <ClCompile Include="DgInShapefile.cpp" />
+    <ClCompile Include="DgInShapefileAtt.cpp" />
+    <ClCompile Include="DgIVec2D.cpp" />
+    <ClCompile Include="DgIVec3D.cpp" />
+    <ClCompile Include="DgLocation.cpp" />
+    <ClCompile Include="DgLocBase.cpp" />
+    <ClCompile Include="DgLocList.cpp" />
+    <ClCompile Include="DgLocVector.cpp" />
+    <ClCompile Include="DgOutAIGenFile.cpp" />
+    <ClCompile Include="DgOutGeoJSONFile.cpp" />
+    <ClCompile Include="DgOutKMLfile.cpp" />
+    <ClCompile Include="DgOutLocFile.cpp" />
+    <ClCompile Include="DgOutLocTextFile.cpp" />
+    <ClCompile Include="DgOutPtsText.cpp" />
+    <ClCompile Include="DgOutputStream.cpp" />
+    <ClCompile Include="DgOutRandPtsText.cpp" />
+    <ClCompile Include="DgOutShapefile.cpp" />
+    <ClCompile Include="DgParamList.cpp" />
+    <ClCompile Include="DgPolygon.cpp" />
+    <ClCompile Include="DgProjFuller.cpp" />
+    <ClCompile Include="DgProjGnomonicRF.cpp" />
+    <ClCompile Include="DgProjISEA.cpp" />
+    <ClCompile Include="DgProjTriRF.cpp" />
+    <ClCompile Include="DgRandom.cpp" />
+    <ClCompile Include="DgRFBase.cpp" />
+    <ClCompile Include="DgRFNetwork.cpp" />
+    <ClCompile Include="DgSeriesConverter.cpp" />
+    <ClCompile Include="DgSqrD4Grid2D.cpp" />
+    <ClCompile Include="DgSqrD4Grid2DS.cpp" />
+    <ClCompile Include="DgSqrD8Grid2D.cpp" />
+    <ClCompile Include="DgSqrD8Grid2DS.cpp" />
+    <ClCompile Include="DgSuperfund.cpp" />
+    <ClCompile Include="DgTriGrid2D.cpp" />
+    <ClCompile Include="DgTriGrid2DS.cpp" />
+    <ClCompile Include="DgUtil.cpp" />
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{0BC3D618-4E40-40B4-9733-F1BFA4FA913B}</ProjectGuid>
+    <RootNamespace>dglib</RootNamespace>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v140</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v140</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v140</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v140</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <OutDir>..\..\lib\dglib\lib\x86\</OutDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <OutDir>..\..\lib\dglib\lib\x64\</OutDir>
+    <IncludePath>..\..\lib\shapelib\include;..\..\lib\proj4lib\include;..\..\lib\ClipperRegionlib\include;$(IncludePath)</IncludePath>
+    <LibraryPath>..\..\lib\shapelib\lib\x64;..\..\lib\proj4lib\lib\x64;..\..\lib\ClipperRegionlib\lib\x64;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>_CRT_SECURE_NO_WARNINGS;_USE_MATH_DEFINES;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ProgramDataBaseFileName>..\..\lib\dglib\lib\x86\dglib.pdb</ProgramDataBaseFileName>
+      <AdditionalIncludeDirectories>..\..\lib\shapelib\include;..\..\lib\proj4lib\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>_CRT_SECURE_NO_WARNINGS;_USE_MATH_DEFINES;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ProgramDataBaseFileName>..\..\lib\dglib\lib\x64\dglib.pdb</ProgramDataBaseFileName>
+      <AdditionalIncludeDirectories>..\..\lib\shapelib\include;..\..\lib\proj4lib\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+    </ClCompile>
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+    </ClCompile>
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

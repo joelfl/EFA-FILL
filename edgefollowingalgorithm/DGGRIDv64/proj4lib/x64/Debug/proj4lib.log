@@ -1,0 +1,13 @@
+﻿  pj_tsfn.cpp
+  pj_qsfn.cpp
+  pj_phi2.cpp
+f:\dggridv64_vs2013_边界跟踪用于globeland30实验\lib\dglib\include\dgutil.h(106): warning C4244: “return”: 从“__int64”转换到“long”，可能丢失数据
+  pj_msfn.cpp
+  pj_mlfn.cpp
+f:\dggridv64_vs2013_边界跟踪用于globeland30实验\lib\dglib\include\dgutil.h(106): warning C4244: “return”: 从“__int64”转换到“long”，可能丢失数据
+  pj_auth.cpp
+f:\dggridv64_vs2013_边界跟踪用于globeland30实验\lib\dglib\include\dgutil.h(106): warning C4244: “return”: 从“__int64”转换到“long”，可能丢失数据
+  emess.cpp
+  adjlon.cpp
+  正在生成代码...
+  proj4lib.vcxproj -> F:\DGGRIDv64_VS2013_边界跟踪用于GlobeLand30实验\DGGRIDv64\proj4lib\..\..\lib\proj4lib\lib\x64\proj4lib.lib

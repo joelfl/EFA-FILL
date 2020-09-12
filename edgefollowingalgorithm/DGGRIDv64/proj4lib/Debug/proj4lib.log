@@ -1,0 +1,31 @@
+﻿Build started 2018/11/23 20:27:25.
+     1>Project "C:\Users\Charley\Desktop\DGGRIDv64_VS2013\DGGRIDv64\proj4lib\proj4lib.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I..\..\lib\dglib\include /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _CRT_SECURE_NO_WARNINGS /D _USE_MATH_DEFINES /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"..\..\lib\proj4lib\lib\x86\proj4lib.pdb" /Gd /TP /analyze- /errorReport:prompt adjlon.cpp emess.cpp pj_auth.cpp pj_mlfn.cpp pj_msfn.cpp pj_phi2.cpp pj_qsfn.cpp pj_tsfn.cpp
+         pj_tsfn.cpp
+         pj_qsfn.cpp
+         pj_phi2.cpp
+     1>c:\users\charley\desktop\dggridv64_vs2013\lib\dglib\include\dgutil.h(106): warning C4244: 'return' : conversion from '__int64' to 'long', possible loss of data
+         pj_msfn.cpp
+         pj_mlfn.cpp
+     1>c:\users\charley\desktop\dggridv64_vs2013\lib\dglib\include\dgutil.h(106): warning C4244: 'return' : conversion from '__int64' to 'long', possible loss of data
+         pj_auth.cpp
+     1>c:\users\charley\desktop\dggridv64_vs2013\lib\dglib\include\dgutil.h(106): warning C4244: 'return' : conversion from '__int64' to 'long', possible loss of data
+         emess.cpp
+         adjlon.cpp
+         Generating Code...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"..\..\lib\proj4lib\lib\x86\proj4lib.lib" /NOLOGO Debug\adjlon.obj
+         Debug\emess.obj
+         Debug\pj_auth.obj
+         Debug\pj_mlfn.obj
+         Debug\pj_msfn.obj
+         Debug\pj_phi2.obj
+         Debug\pj_qsfn.obj
+         Debug\pj_tsfn.obj
+         proj4lib.vcxproj -> C:\Users\Charley\Desktop\DGGRIDv64_VS2013\DGGRIDv64\proj4lib\..\..\lib\proj4lib\lib\x86\proj4lib.lib
+     1>Done Building Project "C:\Users\Charley\Desktop\DGGRIDv64_VS2013\DGGRIDv64\proj4lib\proj4lib.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.56
